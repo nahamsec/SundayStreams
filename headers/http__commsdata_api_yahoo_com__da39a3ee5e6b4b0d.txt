@@ -1,0 +1,16 @@
+200 OK
+Etag: W/"kLqAKMfGhgIkLqBQJaZp3s"
+X-Frame-Options: DENY
+Referrer-Policy: strict-origin-when-cross-origin
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Last-Modified: Wed, 24 Apr 2019 22:02:30 GMT
+Content-Type: text/html
+Age: 0
+Server: ATS
+Content-Length: 393
+Date: Sun, 28 Jul 2019 05:00:15 GMT
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Retry-Count: 0
+Accept-Ranges: bytes
+Strict-Transport-Security: max-age=15552000

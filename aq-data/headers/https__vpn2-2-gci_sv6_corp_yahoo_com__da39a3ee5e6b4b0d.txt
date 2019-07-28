@@ -1,0 +1,10 @@
+200 OK
+Retry-Count: 0
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Pragma: no-cache
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Date: Sun, 21 Jul 2019 18:34:45 GMT
+Set-Cookie: webvpn=; expires=Thu, 01 Jan 1970 22:00:00 GMT; path=/; secure webvpn_as=; expires=Thu, 01 Jan 1970 22:00:00 GMT; path=/; secure webvpnc=; expires=Thu, 01 Jan 1970 22:00:00 GMT; path=/; secure webvpn_portal=; expires=Thu, 01 Jan 1970 22:00:00 GMT; path=/; secure webvpnSharePoint=; expires=Thu, 01 Jan 1970 22:00:00 GMT; path=/; secure samlPreauthSessionHash=; expires=Thu, 01 Jan 1970 22:00:00 GMT; path=/; secure acSamlv2Token=; expires=Thu, 01 Jan 1970 22:00:00 GMT; path=/; secure acSamlv2Error=; expires=Thu, 01 Jan 1970 22:00:00 GMT; path=/; secure webvpnlogin=1; path=/; secure
+Connection: Keep-Alive

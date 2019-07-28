@@ -1,0 +1,9 @@
+403 Forbidden
+Cache-Control: private
+Vary: Accept-Encoding
+Age: 0
+Retry-Count: 0
+Server: ATS
+Date: Sun, 21 Jul 2019 18:34:43 GMT
+P3p: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Content-Type: text/html; charset=iso-8859-1

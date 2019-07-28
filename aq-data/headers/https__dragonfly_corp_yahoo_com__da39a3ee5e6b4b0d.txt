@@ -1,0 +1,25 @@
+200 OK
+Server: nginx
+Content-Type: text/html;charset=utf-8
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=https://okta.report-uri.com/r/d/xss/enforce
+Report-To: {"group":"csp-report","max_age":31536000,"endpoints":[{"url":"https://okta.report-uri.com/r/d/csp/reportOnly"}],"include_subdomains":true}
+X-Okta-Request-Id: XTSwRXqcbNbciRUNGWigBgAAAaQ
+X-Rate-Limit-Remaining: 845
+X-Robots-Tag: none
+P3p: CP="HONK"
+Strict-Transport-Security: max-age=315360000
+Cache-Control: no-cache, no-store
+X-Ua-Compatible: IE=edge
+Content-Language: en
+Vary: Accept-Encoding
+X-Rate-Limit-Limit: 850
+X-Rate-Limit-Reset: 1563734142
+Retry-Count: 0
+Date: Sun, 21 Jul 2019 18:34:46 GMT
+Content-Security-Policy-Report-Only: default-src 'self' ok4static.oktacdn.com oath.okta.com; connect-src 'self' ok4static.oktacdn.com *.mixpanel.com *.mapbox.com *.pendo.io; script-src 'unsafe-inline' 'unsafe-eval' 'self' ok4static.oktacdn.com; style-src 'unsafe-inline' 'self' ok4static.oktacdn.com; frame-src 'self' login.okta.com; img-src 'self' ok4static.oktacdn.com oath.okta.com *.mapbox.com *.pendo.io; frame-ancestors 'self'; report-uri https://okta.report-uri.com/r/d/csp/reportOnly; report-to csp-report
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: ADRUM_BTa=R; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/ ADRUM_BT1=R; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/ ADRUM_BTa="R:776|g:b8f29e95-e5a2-46d7-abf1-b82482532d9a"; Version=1; Max-Age=30; Expires=Sun, 21-Jul-2019 18:35:15 GMT; Path=/ ADRUM_BTa="R:776|g:b8f29e95-e5a2-46d7-abf1-b82482532d9a|n:Okta_6d5b1e30-d05a-4894-a37b-81b5f6c60e0e"; Version=1; Max-Age=30; Expires=Sun, 21-Jul-2019 18:35:15 GMT; Path=/ ADRUM_BT1="R:776|i:12171"; Version=1; Max-Age=30; Expires=Sun, 21-Jul-2019 18:35:15 GMT; Path=/ ADRUM_BT1="R:776|i:12171|e:54"; Version=1; Max-Age=30; Expires=Sun, 21-Jul-2019 18:35:15 GMT; Path=/ sid=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/ JSESSIONID=B04D31F51AFD5197FF4326BADA637029; Path=/; Secure; HttpOnly t=slate; Path=/ DT=DI0LzAuzq6ISPu7TvYGD4vVsg; Expires=Tue, 20-Jul-2021 18:34:46 GMT; Path=/; Secure sid=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Public-Key-Pins-Report-Only: pin-sha256="r5EfzZxQVvQpKo3AgYRaT7X2bDO/kj3ACwmxfdT2zt8="; pin-sha256="MaqlcUgk2mvY/RFSGeSwBRkI+rZ6/dxe/DuQfBT/vnQ="; pin-sha256="72G5IEvDEWn+EThf3qjR7/bQSWaS2ZSLqolhnO6iyJI="; pin-sha256="rrV6CLCCvqnk89gWibYT0JO6fNQ8cCit7GGoiVTjCOg="; max-age=60; report-uri="https://okta.report-uri.io/r/default/hpkp/reportOnly"
+Expires: 0

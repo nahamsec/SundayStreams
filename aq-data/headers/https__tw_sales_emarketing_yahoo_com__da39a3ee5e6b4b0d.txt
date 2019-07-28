@@ -1,0 +1,15 @@
+404 Not Found
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: frame-ancestors https://*.yahoo.com https://*.yahoo.net https://*.yahoo.com.tw https://*.yahoo.com.hk https://*.yahoodns.net https://*.tumblr.com https://tw.discount.yahoo.net;
+Strict-Transport-Security: max-age=31536000
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Server: ATS
+Retry-Count: 0
+Content-Length: 580
+Age: 1
+Referrer-Policy: no-referrer-when-downgrade
+Set-Cookie: B=fkugms9ej9c2d&b=3&s=22; expires=Mon, 20-Jul-2020 18:34:54 GMT; path=/; domain=.yahoo.com
+Date: Sun, 21 Jul 2019 18:34:54 GMT
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Content-Type: text/html; charset=iso-8859-1

@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<!--[if IE 7]><html class="lt-ie10 lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]><html class="lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]><html class="lt-ie10"><![endif]-->
+<!--[if gt IE 9]><html><![endif]-->
+<!--[if !IE]><!--><html><!--<![endif]-->
+<head>
+
+    <script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
+
+    <title>Oath: - Sign In</title>
+        <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="none" />
+
+    <link href="https://ok4static.oktacdn.com/assets/loginpage/css/okta-login-page.min.da7bba772e6259c1f6c640db1efa01fe.css" type="text/css" rel="stylesheet"/><script>
+        var okta = {
+            locale: 'en',
+            deployEnv: 'PROD'
+        };
+    </script>
+    <script>window.okta || (window.okta = {}); okta.cdnUrlHostname = "//ok4static.oktacdn.com"; okta.cdnPerformCheck = false;</script><script>window.okta || (window.okta = {});window.okta.mixpanel = true;window.okta.mixpanelTrackingSamplingFactors = {"_DEFAULT":1.0};</script><script>if (window.module) module = window.module;</script>
+
+</head>
+<body class="auth okta-container">
+
+<!--[if gte IE 8]>
+  <![if lte IE 9]>
+
+    <style>
+    .unsupported-browser-banner-wrap {
+      padding: 20px;
+      border: 1px solid #ddd;
+      background-color: #f3fbff;
+    }
+    .unsupported-browser-banner-inner {
+      position: relative;
+      width: 735px;
+      margin: 0 auto;
+      text-align: left;
+    }
+    .unsupported-browser-banner-inner .icon {
+      vertical-align: top;
+      margin-right: 20px;
+      display: inline-block;
+      position: static !important;
+    }
+    .unsupported-browser-banner-inner a {
+      text-decoration: underline;
+    }
+    </style>
+
+    <div class="unsupported-browser-banner-wrap">
+      <div class="unsupported-browser-banner-inner">
+        <span class="icon icon-16 icon-only warning-16-yellow"></span>You are using an unsupported browser. For the best experience, update to <a href="https://support.okta.com/help/articles/Knowledge_Article/24532952-Platforms---Browser-and-OS-Support">a supported browser</a>.</div>
+    </div>
+
+  <![endif]>
+<![endif]-->
+<!--[if IE 8]> <div id="login-bg-image-ie8" class="login-bg-image" data-se="login-bg-image"></div> <![endif]-->
+<!--[if (gt IE 8)|!(IE)]><!--> <div id="login-bg-image" class="login-bg-image" data-se="login-bg-image"></div> <!--<![endif]-->
+
+<!-- hidden form for reposting fromURI for X509 auth -->
+<form action="/login/cert" method="post" id="x509_login" name="x509_login" style="display:none;">
+    <input type="hidden" class="hide" name="_xsrfToken" value="null"/><input type="hidden" id="fromURI" name="fromURI" class="hidden" value="&#x2f;app&#x2f;oath_dragonfly_1&#x2f;exk5czgjma2Ph6JYL1t7&#x2f;sso&#x2f;saml&#x3f;SAMLRequest&#x3d;nVNdj9owEPwrkd9JCMenRThRUFUq2ouAntS&#x25;2BoMUxxHeON7WdS&#x25;2BivrwnkykOPB55ircezszOb8WOVSe&#x25;2BNayNQRST02&#x25;2BRxMjaQyZxOC5uqFf9dcGM9B1OG1hcRKbSiCEYYqiDjhlpG19NvS9rx2zTXaJGhJN5iHpFtb8TYsL8bPYS7URd6fDiCNvGem4buhQMaU&#x25;2FCFMhaUdaV2OGq1B61OuAmH9KFLu11&#x25;2F2B&#x25;2F&#x25;2BIl58of4kVCLU4baO3Rlk6JfNJm7FT&#x25;2BsN8abGcG1d4xkqU2Rcr7l&#x25;2BE4z&#x25;2FWC0jklqbGxoEiYYDqr08&#x25;2Bgx17h8hRXTHLJB4ECo4WUC8ufNEKLD1EM1LBJv6&#x25;2BGqhhkOe15XtO&#x25;2BE2DHj12mN&#x25;2FDi8ZdOK0&#x25;2F&#x25;2FXnMrSDwBg8056dp7Uf&#x25;2Bsry25NCMxWZnJQ4IWVZ&#x25;2FtPhWg52bFChXEgoX8Jn13IcXDVq8v7umBfzGKVgx3vy&#x25;2Fow6A&#x25;2FsxOvTDuiKS1r6GUp6BkNMk0dwYl46UWM40B8sjYnXBSdBIu2whT&#x25;2BqddOlZXt21kzPMctDCnGLjFTDbeH5NPJPO0hXf35PATRij7ETtyrH7lKiT00pz5gbbaFAmR20v0fxPz&#x25;2BR894Ed77fX&#x25;2F&#x25;2B3kLw&#x25;3D&#x25;3D&amp;RelayState&#x3d;&#x25;2Fnew&#x25;2F"/>
+</form>
+
+<div class="content">
+  <div class="applogin-banner">
+          <div class="applogin-background"></div>
+          <div class="applogin-container">
+              <h1>
+                Connecting to<div class="applogin-app-logo">
+                      <img src="https://ok4static.oktacdn.com/bc/image/fileStoreRecord?id=fs07s2vq0uRB1unyI1t7" alt="Dragonfly" class="logo oath_dragonfly_1"/></div>
+              </h1>
+              <p>Sign-in with your Oath: account to access Dragonfly</p>
+          </div>
+      </div>
+  <style type="text/css">
+    .noscript-msg {
+        background-color: #fff;
+        border-color: #ddd #ddd #d8d8d8;
+        box-shadow:0 2px 0 rgba(175, 175, 175, 0.12);
+        text-align: center;
+        width: 398px;
+        min-width: 300px;
+        margin: 200px auto;
+        border-radius: 3px;
+        border-width: 1px;
+        border-style: solid;
+    }
+
+    .noscript-content {
+        padding: 42px;
+    }
+
+    .noscript-content h2 {
+        padding-bottom: 20px;
+    }
+
+    .noscript-content h1 {
+        padding-bottom: 25px;
+    }
+
+    .noscript-content a {
+        background: transparent;
+        box-shadow: none;
+        display: table-cell;
+        vertical-align: middle;
+        width: 314px;
+        height: 50px;
+        line-height: 36px;
+        color: #fff;
+        background: linear-gradient(#007dc1, #0073b2), #007dc1;
+        border: 1px solid;
+        border-color: #004b75;
+        border-bottom-color: #00456a;
+        box-shadow: rgba(0, 0, 0, 0.15) 0 1px 0, rgba(255, 255, 255, 0.1) 0 1px 0 0 inset;
+        -webkit-border-radius: 3px;
+        border-radius: 3px;
+    }
+
+    .noscript-content a:hover {
+        background: #007dc1;
+        cursor: hand;
+        text-decoration: none;
+    }
+</style>
+<noscript>
+    <div id="noscript-msg" class="noscript-msg">
+        <div class="noscript-content">
+            <h2>Javascript is required</h2>
+            <h1>Javascript is disabled on your browser.&nbspPlease enable Javascript and refresh this page.</h1>
+            <a href=".">Refresh</a>
+        </div>
+    </div>
+</noscript>
+<div id="signin-container"></div>
+  <div id="okta-sign-in" class="auth-container main-container" style="display:none">
+      <div id="unsupported-onedrive" class="unsupported-message" style="display:none">
+        <h2 class="o-form-head">Your OneDrive version is not supported</h2>
+        <p>Upgrade now by installing the OneDrive for Business Next Generation Sync Client to login to Okta</p>
+        <a class="button button-primary" target="_blank" href="https://support.okta.com/help/articles/Knowledge_Article/Upgrading-to-OneDrive-for-Business-Next-Generation-Sync-Client">
+          Learn how to upgrade</a>
+      </div>
+      <div id="unsupported-cookie" class="unsupported-message" style="display:none">
+          <h2 class="o-form-head">Cookies are required</h2>
+          <p>Cookies are disabled on your browser. Please enable Cookies and refresh this page.</p>
+          <a class="button button-primary" target="_blank" href=".">
+              Refresh</a>
+      </div>
+  </div>
+</div>
+
+<div class="footer">
+  <div class="footer-container clearfix">
+    <p class="copyright">Powered by <a href="http://www.okta.com/" class="inline-block notranslate">Okta</a></p>
+        <p class="privacy-policy"><a href="/privacy" target="_blank" class="inline-block margin-l-10">Privacy Policy</a></p>
+    </div>
+</div>
+
+<script type="text/javascript">function runLoginPage (fn) {var mainScript = document.createElement('script');mainScript.src = 'https://ok4static.oktacdn.com/assets/js/mvc/loginpage/initLoginPage.pack.1f437858bd4998a9098542731a54e0d5.js';mainScript.crossOrigin = 'anonymous';mainScript.integrity = 'sha384-KQ/0h1BphIKRqppN5w4JUm1OML72Zc3xP/7ZC1qQ/v2bk7kLjlQdADNLNu8UAmci';document.getElementsByTagName('head')[0].appendChild(mainScript);fn && mainScript.addEventListener('load', function () { setTimeout(fn, 1) });}</script><script type="text/javascript">
+(function(){
+
+  var baseUrl = 'https\x3A\x2F\x2Foath.okta.com';
+  var suppliedRedirectUri = '';
+  var repost = false;
+  var stateToken = '';
+  var fromUri = '\x2Fapp\x2Foath_dragonfly_1\x2Fexk5czgjma2Ph6JYL1t7\x2Fsso\x2Fsaml\x3FSAMLRequest\x3DnVNdj9owEPwrkd9JCMenRThRUFUq2ouAntS\x252BoMUxxHeON7WdS\x252BivrwnkykOPB55ircezszOb8WOVSe\x252BNayNQRST02\x252BRxMjaQyZxOC5uqFf9dcGM9B1OG1hcRKbSiCEYYqiDjhlpG19NvS9rx2zTXaJGhJN5iHpFtb8TYsL8bPYS7URd6fDiCNvGem4buhQMaU\x252FCFMhaUdaV2OGq1B61OuAmH9KFLu11\x252F2B\x252F\x252BIl58of4kVCLU4baO3Rlk6JfNJm7FT\x252BsN8abGcG1d4xkqU2Rcr7l\x252BE4z\x252FWC0jklqbGxoEiYYDqr08\x252Bgx17h8hRXTHLJB4ECo4WUC8ufNEKLD1EM1LBJv6\x252BGqhhkOe15XtO\x252BE2DHj12mN\x252FDi8ZdOK0\x252F\x252FXnMrSDwBg8056dp7Uf\x252Bsry25NCMxWZnJQ4IWVZ\x252FtPhWg52bFChXEgoX8Jn13IcXDVq8v7umBfzGKVgx3vy\x252Fow6A\x252FsxOvTDuiKS1r6GUp6BkNMk0dwYl46UWM40B8sjYnXBSdBIu2whT\x252BqddOlZXt21kzPMctDCnGLjFTDbeH5NPJPO0hXf35PATRij7ETtyrH7lKiT00pz5gbbaFAmR20v0fxPz\x252BR894Ed77fX\x252F\x252B3kLw\x253D\x253D\x26RelayState\x3D\x252Fnew\x252F';
+  var username = '';
+  var rememberMe = true;
+  var smsRecovery = true;
+  var callRecovery = false;
+  var emailRecovery = true;
+  var usernameLabel = 'Username\x20\x2F\x20ShortID';
+  var usernameInlineLabel = '';
+  var passwordLabel = 'Password';
+  var passwordInlineLabel = '';
+  var signinLabel = 'Sign\x20In';
+  var forgotpasswordLabel = 'Forgot\x20password\x3F\x20Call\x20the\x20Global\x20Service\x20Desk\x3A\x20\x2B1\x2D408\x2D349\x2D5300\x20\x28US\x3A\x201\x2D866\x2D539\x2D2466\x29.';
+  var unlockaccountLabel = 'Account\x20Locked\x3F\x20Call\x20the\x20Global\x20Service\x20Desk\x3A\x20\x2B1\x2D408\x2D349\x2D5300\x20\x28US\x3A\x201\x2D866\x2D539\x2D2466\x29.';
+  var helpLabel = 'Help';
+  var orgSupportPhoneNumber = '';
+  var hideSignOutForMFA = false;
+  var hideBackToSignInForReset = false;
+  var loginPageUrlRedirect = '';
+  var enableUrlFixForEmbeddedBrowsers = false;
+  var footerHelpTitle = 'Need\x20help\x20signing\x20in\x3F';
+  var recoveryFlowPlaceholder = 'Email\x20or\x20Username';
+  var signOutUrl = '';
+  var authScheme = 'OAUTH2';
+
+  var securityImage = true;
+  
+
+  var windowsVerify = false;
+  
+    windowsVerify = true;
+  
+
+  var selfServiceUnlock = false;
+  
+    selfServiceUnlock = true;
+  
+
+  var preventBrowserFromSavingOktaPassword = false;
+  
+
+  var enableMixpanelTracking = false;
+  
+
+  var redirectByFormSubmit = false;
+  
+  
+  var autoPush = false;
+  
+    autoPush = true;
+  
+
+  var publishToAccountChooser = false;
+  var accountChooserDiscoveryUrl = null;
+  
+    publishToAccountChooser = true;
+    accountChooserDiscoveryUrl = 'https://login.okta.com/discovery/iframe.html';
+  
+
+  // In case of custom app login, the uri is already absolute, so we must not attach baseUrl
+  var redirectUri;
+  if (isAbsoluteUri(fromUri)) {
+      redirectUri = fromUri;
+  } else {
+      redirectUri = baseUrl + fromUri;
+  }
+  
+
+  var customButtons;
+  
+
+  var customLinks = [];
+  
+
+  var linkParams;
+  
+
+  var stateTokenAllFlows;
+  
+
+  var idpDiscovery;
+  var idpDiscoveryRequestContext;
+  
+
+  var hasPasswordlessPolicy = false;
+  
+
+  var showPasswordToggleOnSignInPage = false;
+  
+
+  var hasOAuth2ConsentFeature = false;
+  var consentFunc;
+  
+
+  var hasMfaAttestationFeature = false;
+  
+    hasMfaAttestationFeature = true;
+  
+
+  var registration = false;
+  
+
+  var webauthn = false;
+  
+
+  var loginPageConfig = {
+    fromUri: fromUri,
+    repost: repost,
+    redirectUri: redirectUri,
+    isMobileClientLogin: false,
+    isMobileSSO: false,
+
+    linkParams: linkParams,
+    hasChromeOSFeature: false,
+    showLinkToAppStore: false,
+    publishToAccountChooser: publishToAccountChooser,
+    accountChooserDiscoveryUrl: accountChooserDiscoveryUrl,
+    preventBrowserFromSavingOktaPassword: preventBrowserFromSavingOktaPassword,
+    enableMixpanelTracking: enableMixpanelTracking,
+    enableUrlFixForEmbeddedBrowsers: enableUrlFixForEmbeddedBrowsers,
+    loginPageUrlRedirect: loginPageUrlRedirect,
+    mfaAttestation: hasMfaAttestationFeature,
+    signIn: {
+      el: '#signin-container',
+      baseUrl: baseUrl,
+      brandName: 'Okta',
+      logo: 'https://ok4static.oktacdn.com/bc/image/fileStoreRecord?id=fs0aexo9ulphugpe21t7',
+      logoText: 'Oath\x3A logo',
+      helpSupportNumber: orgSupportPhoneNumber,
+      stateToken: stateToken,
+      username: username,
+      signOutLink: signOutUrl,
+      consent: consentFunc,
+      authScheme: authScheme,
+      relayState: fromUri,
+      idpDiscovery: {
+        requestContext: idpDiscoveryRequestContext
+      },
+      features: {
+        router: true,
+        securityImage: securityImage,
+        rememberMe: rememberMe,
+        autoPush: autoPush,
+        webauthn: webauthn,
+        smsRecovery: smsRecovery,
+        callRecovery: callRecovery,
+        emailRecovery: emailRecovery,
+        windowsVerify: windowsVerify,
+        selfServiceUnlock: selfServiceUnlock,
+        multiOptionalFactorEnroll: true,
+        deviceFingerprinting: true,
+        useDeviceFingerprintForSecurityImage: true,
+        trackTypingPattern: false,
+        hideSignOutLinkInMFA: hideSignOutForMFA,
+        hideBackToSignInForReset: hideBackToSignInForReset,
+        customExpiredPassword: true,
+        idpDiscovery: idpDiscovery,
+        passwordlessAuth: hasPasswordlessPolicy,
+        consent: hasOAuth2ConsentFeature,
+        showPasswordToggleOnSignInPage: showPasswordToggleOnSignInPage,
+        registration: registration,
+        redirectByFormSubmit: redirectByFormSubmit
+      },
+
+      assets: {
+        baseUrl: okta.cdnUrlHostname + '/assets/js/mvc/loginpage/i18n'
+      },
+
+      language: okta.locale,
+      i18n: {},
+
+      customButtons: customButtons,
+
+      helpLinks: {
+        help: '',
+        forgotPassword: 'https\x3A\x2F\x2Fchat.ouroath.com\x2F',
+        unlock: 'https\x3A\x2F\x2Fchat.ouroath.com\x2F',
+        custom: customLinks
+      }
+    }
+  };
+
+  loginPageConfig.signIn.i18n[okta.locale] = {
+    
+    'primaryauth.username.placeholder': usernameLabel,
+    'primaryauth.username.tooltip': usernameInlineLabel,
+    'primaryauth.password.placeholder': passwordLabel,
+    'primaryauth.password.tooltip': passwordInlineLabel,
+    'primaryauth.title': signinLabel,
+    'forgotpassword': forgotpasswordLabel,
+    'unlockaccount': unlockaccountLabel,
+    'help': helpLabel,
+    'needhelp': footerHelpTitle,
+    'password.forgot.email.or.username.placeholder': recoveryFlowPlaceholder,
+    'password.forgot.email.or.username.tooltip': recoveryFlowPlaceholder,
+    'account.unlock.email.or.username.placeholder': recoveryFlowPlaceholder,
+    'account.unlock.email.or.username.tooltip': recoveryFlowPlaceholder
+  };
+
+  function isOldWebBrowserControl() {
+    // We no longer support IE7. If we see the MSIE 7.0 browser mode, it's a good signal
+    // that we're in a windows embedded browser.
+    if (navigator.userAgent.indexOf('MSIE 7.0') === -1) {
+      return false;
+    }
+
+    // Because the userAgent is the same across embedded browsers, we use feature
+    // detection to see if we're running on older versions that do not support updating
+    // the documentMode via x-ua-compatible.
+    return document.all && !window.atob;
+  }
+
+  function isAbsoluteUri(uri) {
+    var pat = /^https?:\/\//i;
+    return pat.test(uri);
+  }
+
+  var unsupportedContainer = document.getElementById('okta-sign-in');
+
+  // Old versions of WebBrowser Controls (specifically, OneDrive) render in IE7 browser
+  // mode, with no way to override the documentMode. In this case, inform the user they need
+  // to upgrade.
+  if (isOldWebBrowserControl()) {
+    document.getElementById('unsupported-onedrive').removeAttribute('style');
+    unsupportedContainer.removeAttribute('style');
+  }
+  else if (!navigator.cookieEnabled) {
+    document.getElementById('unsupported-cookie').removeAttribute('style');
+    unsupportedContainer.removeAttribute('style');
+  }
+  else {
+    unsupportedContainer.parentNode.removeChild(unsupportedContainer);
+    runLoginPage(function () {
+      OktaLogin.initLoginPage(loginPageConfig);
+    });
+  }
+
+}());
+</script>
+
+<script>
+  window.addEventListener('load', function(event) {
+    function applyStyle(id, style) {
+      if (style) {
+        var el = document.getElementById(id);
+        if (el) {
+          el.setAttribute('style', style);
+        }
+      }
+    }
+    applyStyle('login-bg-image', "background-image: url('https://ok4static.oktacdn.com/bc/image/fileStoreRecord?id=fs0b73cn37pOIIMLf1t7')");
+    applyStyle('login-bg-image-ie8', "filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://ok4static.oktacdn.com/bc/image/fileStoreRecord?id=fs0b73cn37pOIIMLf1t7', sizingMethod='scale')");
+  });
+</script>
+
+</body>
+</html>

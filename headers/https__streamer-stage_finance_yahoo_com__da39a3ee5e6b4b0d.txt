@@ -1,0 +1,5 @@
+426 Upgrade Required
+Content-Length: 16
+Retry-Count: 0
+Date: Sun, 28 Jul 2019 05:02:00 GMT
+Content-Type: text/plain

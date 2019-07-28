@@ -1,0 +1,13 @@
+403 Forbidden
+Vary: Accept-Encoding, User-Agent
+Content-Length: 249
+Content-Type: text/html
+Date: Sun, 21 Jul 2019 18:34:51 GMT
+Retry-Count: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000
+Server: ATS
+X-Frame-Options: DENY

@@ -1,0 +1,16 @@
+200 OK
+Strict-Transport-Security: max-age=31536000
+Date: Sun, 28 Jul 2019 05:03:14 GMT
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Set-Cookie: B=9aru31hejqb4i&b=3&s=sp; expires=Mon, 27-Jul-2020 05:03:14 GMT; path=/; domain=.yahoo.com; secure
+Vary: Accept-Encoding
+Y-Origin: lyd13.mall.tw1.yahoo.com
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html; charset=UTF-8
+Server: ATS
+X-Frame-Options: DENY
+Referrer-Policy: strict-origin-when-cross-origin
+Cache-Control: private
+Retry-Count: 0
+X-Content-Type-Options: nosniff
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"

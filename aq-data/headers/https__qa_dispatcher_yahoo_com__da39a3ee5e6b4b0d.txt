@@ -1,0 +1,17 @@
+200 OK
+Request-Id: 3d085d76-abe6-11e9-a325-02e231dc738e
+Set-Cookie: firstview=1563734096; expires=Mon, 22-Jul-2019 18:34:56 GMT; Max-Age=86400; path=/; domain=aol.com; httponly dlExpire=1563734096; expires=Sun, 21-Jul-2019 18:54:56 GMT; Max-Age=1200; path=/ dlTimestamp=1563734096; expires=Sun, 21-Jul-2019 18:54:56 GMT; Max-Age=1200; path=/ dlIsOn=1; expires=Sun, 21-Jul-2019 18:54:56 GMT; Max-Age=1200; path=/ AMPCSRF=ZWorplv9%2F08GoWe2fdGPZe2yRtujWCcslS6LJu7gyZk%3D; path=/; secure; httponly BX=ciadmbtej9c2g&b=3&s=2p; expires=Mon, 20-Jul-2020 18:34:56 GMT; path=/; domain=.aol.com
+X-Aol-Hn: i-0fe435bc1854e361f
+X-Xss-Protection: 1; mode=block
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Content-Security-Policy: upgrade-insecure-requests; block-all-mixed-content; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation allow-orientation-lock allow-pointer-lock;
+Content-Type: text/html;charset=UTF-8
+Date: Sun, 21 Jul 2019 18:34:56 GMT
+Strict-Transport-Security: max-age=31536000
+Age: 0
+Cache-Control: no-cache, no-store, private, must-revalidate
+Retry-Count: 0
+X-Content-Type-Options: nosniff
+Server: ATS
+Vary: Accept-Encoding
+Referrer-Policy: no-referrer-when-downgrade

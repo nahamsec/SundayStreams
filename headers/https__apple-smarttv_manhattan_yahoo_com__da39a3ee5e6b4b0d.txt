@@ -1,0 +1,22 @@
+200 OK
+X-Amz-Server-Side-Encryption: AES256
+Vary: Origin, Accept-Encoding
+Retry-Count: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Date: Wed, 24 Jul 2019 04:00:08 GMT
+Etag: "e38d7cf533d32f62e782470a38b12e9c-df"
+Accept-Ranges: bytes
+Content-Type: text/html
+Server: ATS
+X-Content-Type-Options: nosniff
+X-Amz-Request-Id: 7531DFC60C21EF21
+Cache-Control: public, max-age=536112000
+Expires: Sun, 06 May 2035 17:08:39 GMT
+Age: 349211
+Strict-Transport-Security: max-age=15552000
+Last-Modified: Thu, 10 May 2018 17:08:41 GMT
+X-Amz-Meta-X-Ysws-Meta-Yahoo-Content-Type: text/html
+X-Amz-Meta-X-Ysws-Access: public
+Referrer-Policy: no-referrer-when-downgrade
+X-Xss-Protection: 1; mode=block
+X-Amz-Id-2: pFc2HSIW3LsI8QUpj3+/ErWHF4WhoYy6T5OByIqjEz6/Bo8FlnmSa/aFSlM8sFm9j80UltnYp8Q=

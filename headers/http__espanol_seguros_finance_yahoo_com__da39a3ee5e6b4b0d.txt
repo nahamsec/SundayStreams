@@ -1,0 +1,17 @@
+404 Not Found
+X-Xss-Protection: 1; mode=block
+Date: Sun, 28 Jul 2019 05:02:15 GMT
+Etag: W/"58-a8ShlMs6rZpUsOavRanBYloZ70c"
+Age: 0
+Retry-Count: 0
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: sandbox allow-forms allow-modals allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation allow-presentation;
+Cache-Control: max-age=0, private
+Content-Length: 658
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+Expires: -1
+Strict-Transport-Security: max-age=31536000

@@ -1,0 +1,17 @@
+404 Not Found
+X-Cache: Error from cloudfront
+X-Amz-Cf-Pop: ORD52-C1
+X-Content-Type-Options: nosniff
+Date: Sun, 28 Jul 2019 05:02:13 GMT
+Server: ATS
+Content-Type: text/html
+Strict-Transport-Security: max-age=15552000
+Expires: -1
+X-Xss-Protection: 1; mode=block
+X-Amz-Cf-Id: Vbbckfb2xIwNaMg2urrbv2wLchZGqWBWDFbRezOi9Yp40Dvq-xrHVw==
+Referrer-Policy: no-referrer-when-downgrade
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Retry-Count: 0
+Cache-Control: no-store, no-cache, private, max-age=0
+Vary: Accept-Encoding,X-Failsafe-Cache
+Age: 3

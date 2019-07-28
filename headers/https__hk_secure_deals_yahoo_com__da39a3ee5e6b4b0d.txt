@@ -1,0 +1,16 @@
+404 Not Found
+Cache-Control: private
+Age: 2
+Referrer-Policy: strict-origin-when-cross-origin
+Status: 404 Not Found
+Set-Cookie: B=5fpj46dejqb0h&b=3&s=2g; expires=Mon, 27-Jul-2020 05:01:05 GMT; path=/; domain=.yahoo.com; secure
+Content-Type: text/html; charset=utf-8
+Retry-Count: 0
+Strict-Transport-Security: max-age=31536000
+Server: ATS
+Date: Sun, 28 Jul 2019 05:01:05 GMT
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: DENY

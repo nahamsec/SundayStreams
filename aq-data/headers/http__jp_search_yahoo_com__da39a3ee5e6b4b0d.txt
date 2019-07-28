@@ -1,0 +1,10 @@
+200 OK
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Via: http/1.1 edge2657.img.djm.yahoo.co.jp (ApacheTrafficServer [c sSf ])
+Server: ATS
+Date: Sun, 21 Jul 2019 18:34:43 GMT
+Content-Type: text/html; charset=UTF-8
+P3p: policyref="http://privacy.yahoo.co.jp/w3c/p3p_jp.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE GOV"
+Retry-Count: 0
+Age: 0

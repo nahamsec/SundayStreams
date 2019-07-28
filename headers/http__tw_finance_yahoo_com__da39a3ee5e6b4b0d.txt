@@ -1,0 +1,14 @@
+200 OK
+Age: 0
+Retry-Count: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+Date: Sun, 28 Jul 2019 05:02:57 GMT
+Strict-Transport-Security: max-age=31536000
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html; charset=Big5
+Server: ATS
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Vary: Accept-Encoding
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: frame-ancestors https://*.yahoo.com https://*.yahoo.net https://*.yahoo.com.tw https://*.yahoo.com.hk https://*.yahoodns.net https://*.tumblr.com https://tw.discount.yahoo.net;

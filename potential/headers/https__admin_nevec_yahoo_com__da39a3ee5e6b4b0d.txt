@@ -1,0 +1,25 @@
+200 OK
+X-Okta-Request-Id: XT3oGB7qxlo0dtar-HKsxQAACEk
+X-Rate-Limit-Limit: 850
+Pragma: no-cache
+Date: Sun, 28 Jul 2019 18:23:20 GMT
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=315360000
+X-Rate-Limit-Reset: 1564338252
+Content-Security-Policy-Report-Only: default-src 'self' ok4static.oktacdn.com oath.okta.com; connect-src 'self' ok4static.oktacdn.com *.mixpanel.com *.mapbox.com *.pendo.io; script-src 'unsafe-inline' 'unsafe-eval' 'self' ok4static.oktacdn.com; style-src 'unsafe-inline' 'self' ok4static.oktacdn.com; frame-src 'self' login.okta.com; img-src 'self' ok4static.oktacdn.com oath.okta.com *.mapbox.com *.pendo.io; frame-ancestors 'self'; report-uri https://okta.report-uri.com/r/d/csp/reportOnly; report-to csp-report
+Cache-Control: no-cache, no-store
+Set-Cookie: ADRUM_BTa=R; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/ ADRUM_BT1=R; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/ ADRUM_BTa="R:402|g:622e4f50-9054-4aa8-b20e-b6c64fcd43e1"; Version=1; Max-Age=30; Expires=Sun, 28-Jul-2019 18:23:50 GMT; Path=/ ADRUM_BTa="R:402|g:622e4f50-9054-4aa8-b20e-b6c64fcd43e1|n:Okta_6d5b1e30-d05a-4894-a37b-81b5f6c60e0e"; Version=1; Max-Age=30; Expires=Sun, 28-Jul-2019 18:23:50 GMT; Path=/ ADRUM_BT1="R:402|i:12171"; Version=1; Max-Age=30; Expires=Sun, 28-Jul-2019 18:23:50 GMT; Path=/ ADRUM_BT1="R:402|i:12171|e:33"; Version=1; Max-Age=30; Expires=Sun, 28-Jul-2019 18:23:50 GMT; Path=/ sid=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/ JSESSIONID=3F42F0D085E73880DB3F7516507CD61A; Path=/; Secure; HttpOnly t=slate; Path=/ sid=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Content-Type: text/html;charset=utf-8
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block; report=https://okta.report-uri.com/r/d/xss/enforce
+P3p: CP="HONK"
+X-Ua-Compatible: IE=edge
+X-Rate-Limit-Remaining: 843
+Retry-Count: 0
+Server: nginx
+Public-Key-Pins-Report-Only: pin-sha256="r5EfzZxQVvQpKo3AgYRaT7X2bDO/kj3ACwmxfdT2zt8="; pin-sha256="MaqlcUgk2mvY/RFSGeSwBRkI+rZ6/dxe/DuQfBT/vnQ="; pin-sha256="72G5IEvDEWn+EThf3qjR7/bQSWaS2ZSLqolhnO6iyJI="; pin-sha256="rrV6CLCCvqnk89gWibYT0JO6fNQ8cCit7GGoiVTjCOg="; max-age=60; report-uri="https://okta.report-uri.io/r/default/hpkp/reportOnly"
+Report-To: {"group":"csp-report","max_age":31536000,"endpoints":[{"url":"https://okta.report-uri.com/r/d/csp/reportOnly"}],"include_subdomains":true}
+Content-Language: en
+X-Robots-Tag: none
+Expires: 0

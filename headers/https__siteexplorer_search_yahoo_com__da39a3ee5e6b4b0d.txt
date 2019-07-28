@@ -1,0 +1,11 @@
+404 Not Found on Accelerator
+Content-Type: text/html
+Content-Language: en
+X-Content-Type-Options: nosniff
+Content-Length: 5974
+Retry-Count: 0
+Date: Sun, 28 Jul 2019 05:03:03 GMT
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+Cache-Control: no-store

@@ -1,0 +1,12 @@
+404 Not Found on Accelerator
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Retry-Count: 0
+Content-Type: text/html
+Cache-Control: no-store
+Content-Language: en
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Content-Length: 297
+Date: Sun, 28 Jul 2019 05:00:19 GMT
+Server: ATS

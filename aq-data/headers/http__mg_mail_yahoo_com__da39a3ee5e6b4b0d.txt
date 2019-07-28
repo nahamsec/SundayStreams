@@ -1,0 +1,16 @@
+200 OK
+X-Frame-Options: DENY
+Etag: W/"2d59-/CagCBFPpiYO7B1KT2cqs6Iwhi8"
+Retry-Count: 0
+Age: 0
+X-Content-Type-Options: nosniff
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Vary: Accept-Encoding
+X-Xss-Protection: 1; mode=block
+X-Omg-Env: norrin-green--production-gq1-5b46ddd74b-hdvvm
+Strict-Transport-Security: max-age=15552000
+Referrer-Policy: origin-when-cross-origin
+Content-Type: text/html; charset=utf-8
+Content-Security-Policy: child-src blob:;connect-src 'self' https://*.yimg.com https://*.yahoo.com https://s.yimg.com/nq/ads/mb/native/* wss://prod.iris.yahoo.com https://www.hipmunk.com/ https://service.cmp.oath.com;default-src 'self';font-src https: data:;frame-src https://*.yahoo.com https://*.yimg.com https://*.ymail.com https://6518610.fls.doubleclick.net/ https://6589630.fls.doubleclick.net/ https://8523621.fls.doubleclick.net/ https://delivery.vidible.tv/ https://secure.bannerfarm.ace.advertising.com https://cmp.advertising.com https://www.fbsbx.com/ads/audience_network/integrations/yahoo-iframe/;img-src data: blob: http: https:;media-src blob: https://*.yahoo.com https://*.yimg.com;report-uri https://csp.yahoo.com/beacon/csp?src=mail-norrin;script-src 'self' https://iris.corp.yahoo.com:8900 https://s.yimg.com/jd/ https://pr.comet.yahoo.com https://s.yimg.com/nq/nr/ https://s.yimg.com/os/yaft/ https://s.yimg.com/ss/ https://s.yimg.com/aaq/yc/ https://s.yimg.com/rq/darla/ https://fc.yahoo.com/sdarla/ https://e2e.fc.yahoo.com/sdarla/ https://s.yimg.com/gu/static/ https://www.yahoo.com/polyfill.min.js https://yep.video.yahoo.com/js/ https://s.yimg.com/rx/ https://www.gstatic.com/cv/js/sender/v1/cast_sender.js https://cdn-ssl.vidible.tv/prod/player/js/ https://yep.video.yahoo.com/oath/js/1/ https://assets.video.yahoo.net/playerassets/ https://jsapi.login.yahoo.com/w/ https://s.yimg.com/qg/att/3party/adobe_analytics/ https://smetrics.att.com/id https://consent.cmp.oath.com/ https://s.yimg.com/oa/ 'sha256-lRMQ2lQozgbWLOqNJOrnclJXX6G77pQVIlF8SAI3++I=' 'unsafe-inline' 'unsafe-eval' 'nonce-uppR1Haagw//BQpwjH/IBlO785w0KtfFdD7OOb80V/NdQS97' ;style-src 'self' https://s.yimg.com/nq/nr/ https://s.yimg.com/rx/ https://assets.video.yahoo.net/playerassets/ 'unsafe-inline';worker-src 'self';manifest-src https://s.yimg.com/nq/nr/json/
+Date: Sun, 21 Jul 2019 18:34:43 GMT
+Server: ATS

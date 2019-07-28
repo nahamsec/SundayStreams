@@ -1,0 +1,15 @@
+200 OK
+Vary: Accept-Encoding
+Age: 0
+Cache-Control: private
+Set-Cookie: B=1g9mpldejqb46&b=3&s=6f; expires=Mon, 27-Jul-2020 05:03:02 GMT; path=/; domain=.yahoo.com
+Image_inliner_base64: false
+Retry-Count: 0
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+Date: Sun, 28 Jul 2019 05:03:02 GMT
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Image_inliner_enable: false
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport

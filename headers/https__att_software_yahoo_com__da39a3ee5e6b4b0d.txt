@@ -1,0 +1,14 @@
+200 OK
+X-Varnish: 666898482
+Date: Sun, 28 Jul 2019 05:01:25 GMT
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Via: 1.1 varnish
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Accept-Ranges: bytes
+Retry-Count: 0
+Link: <//sadlib.static-app.synacor.com/client/synacor/synacor.js>; rel=preload; as=script <https://www.att.com/scripts/adobe/prod/detm-container-hdr.js>; rel=preload; as=script <https://www.att.com/scripts/adobe/prod/detm_adobe.js>; rel=preload; as=script <https://www.att.com/scripts/adobe/prod/detm-container-ftr.js>; rel=preload; as=script <https://www.att.com/scripts/adobe/prod/edmDataManager.js>; rel=preload; as=script <https://smartwrapper.technoratimedia.com/client/synacor/synacor.js>; rel=preload; as=script <https://www.googletagservices.com/tag/js/gpt.js>; rel=preload; as=script <https://cdn.taboola.com/libtrc/synacor-attportal/loader.js>; rel=preload; as=script <https://d211ld0rq8ynx5.cloudfront.net/tesseract.js>; rel=preload; as=script <https://d35uctr6428reu.cloudfront.net/assets/site_config/att-gen4/assets/en_US/gen4/globals/fonts/attnet-icons.woff?ba3e76a0>; rel=preload; as=font; crossorigin <https://d35uctr6428reu.cloudfront.net/assets/en_US/gen4/globals/fonts/symbolset-custom.woff?ba3e76a0>; rel=preload; as=font; crossorigin <https://d211ld0rq8ynx5.cloudfront.net/att.tesseract.css>; rel=preload; as=style
+P3p: CP="ALL DSP COR TAIa PSAa PSDa IVAa IVDa CONi OUR IND UNI"
+Set-Cookie: temporalchip=MzAuOTQuMjI1LjYyOjE1NjQyOTAwODU%3D; path=/; domain=.att.net eternalchip=MzAuOTQuMjI1LjYyOjE1NjQyOTAwODU%3D; expires=Tue, 27-Jul-2021 05:01:25 GMT; path=/; domain=.att.net session=ccfbc9292f4785e008246ab2f67f285d4986b597-1564290085; expires=Mon, 27-Jul-2020 05:01:25 GMT; path=/; domain=.att.net synactpl=1; path=/ Synacor_0=%7B%22jade_liveads31pc%22%3A%5B1627362085%2C%2290013%22%5D%7D; expires=Wed, 28-Jul-2021 05:01:25 GMT; path=/; domain=.att.net Synacor_1=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/; domain=.att.net

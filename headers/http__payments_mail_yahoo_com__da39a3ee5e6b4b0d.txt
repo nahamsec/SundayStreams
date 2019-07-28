@@ -1,0 +1,17 @@
+200 OK
+X-Powered-By: Express
+Vary: Accept-Encoding
+Age: 0
+Referrer-Policy: strict-origin-when-cross-origin
+Retry-Count: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+Content-Type: text/html
+Content-Security-Policy: frame-src https://*.fls.doubleclick.net/ https://*.ui.payment.yahoo.com/ https://ui.payment.yahoo.com/ https://jsl.qat.obi.aol.com/ https://jsl.prod.obi.aol.com/ https://dev.checkout.mail.yahoo.com/ https://checkout.mail.yahoo.com/;img-src 'self' https:;report-uri https://csp.yahoo.com/beacon/csp?src=mail_adfree;script-src 'self' https://s.yimg.com/pn/yp/ 'unsafe-inline' https://s.yimg.com/ss/ https://jsl.qat.obi.aol.com/obipmservice/obick.umd.js https://jsl.prod.obi.aol.com/obipmservice/obick.umd.js https://s.aolcdn.com/membership/omp-static/omp-widget/lib/yahoo_mail/dev/1.0.1/ompwidget.min.js https://s.aolcdn.com/membership/omp-static/omp-widget/lib/yahoo_mail/prod/1.0.1/ompwidget.min.js 'nonce-AMdsGiy7hpr0AfCWBdpJy3aekr6h6h5hd66/gm4Oko2l6DnS' ;style-src 'self' https://s.yimg.com/av/ 'unsafe-inline'
+X-Content-Security-Policy: frame-src https://*.fls.doubleclick.net/ https://*.ui.payment.yahoo.com/ https://ui.payment.yahoo.com/ https://jsl.qat.obi.aol.com/ https://jsl.prod.obi.aol.com/ https://dev.checkout.mail.yahoo.com/ https://checkout.mail.yahoo.com/;img-src 'self' https:;report-uri https://csp.yahoo.com/beacon/csp?src=mail_adfree;script-src 'self' https://s.yimg.com/pn/yp/ 'unsafe-inline' https://s.yimg.com/ss/ https://jsl.qat.obi.aol.com/obipmservice/obick.umd.js https://jsl.prod.obi.aol.com/obipmservice/obick.umd.js https://s.aolcdn.com/membership/omp-static/omp-widget/lib/yahoo_mail/dev/1.0.1/ompwidget.min.js https://s.aolcdn.com/membership/omp-static/omp-widget/lib/yahoo_mail/prod/1.0.1/ompwidget.min.js 'nonce-AMdsGiy7hpr0AfCWBdpJy3aekr6h6h5hd66/gm4Oko2l6DnS' ;style-src 'self' https://s.yimg.com/av/ 'unsafe-inline'
+Date: Sun, 28 Jul 2019 04:58:37 GMT
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=15552000
+Set-Cookie: B=atrrbl5ejqart&b=3&s=eo; expires=Mon, 27-Jul-2020 04:58:37 GMT; path=/; domain=.yahoo.com
+Server: ATS

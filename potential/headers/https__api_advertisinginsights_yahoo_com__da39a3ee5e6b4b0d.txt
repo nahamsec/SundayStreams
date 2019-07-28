@@ -1,0 +1,13 @@
+403 Forbidden
+Content-Length: 3151
+Date: Sun, 28 Jul 2019 18:22:24 GMT
+Retry-Count: 0
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=15552000
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Content-Type: text/html;charset=utf-8
+Cache-Control: must-revalidate,no-cache,no-store
+Age: 0
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff

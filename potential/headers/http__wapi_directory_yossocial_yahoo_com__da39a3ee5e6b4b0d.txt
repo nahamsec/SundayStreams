@@ -1,0 +1,15 @@
+404 Not Found
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Retry-Count: 0
+X-Yahoo-Social-Host: ws149.progrss.gq1.yahoo.com
+Age: 0
+X-Frame-Options: DENY
+X-Yahoo-Social-Data-Source: default_source
+Cache-Control: must-revalidate,no-cache,no-store
+Content-Type: text/html;charset=utf-8
+Content-Length: 3171
+Referrer-Policy: strict-origin-when-cross-origin
+Y-Rid: d4kr329ejrq0m
+Date: Sun, 28 Jul 2019 18:23:18 GMT
+Server: ATS

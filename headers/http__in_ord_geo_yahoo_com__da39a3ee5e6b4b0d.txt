@@ -1,0 +1,13 @@
+200 OK
+Etag: W/"5f83-737604366"
+Date: Sun, 28 Jul 2019 04:58:56 GMT
+Age: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Content-Security-Policy: frame-ancestors *.yahoosmallbusiness.com smallbusiness.yahoo.com luminate.com
+Vary: Accept-Encoding
+Server: ATS
+Strict-Transport-Security: max-age=10886400; includeSubDomains; preload
+X-Powered-By: Express
+Set-Cookie: ysbexp=j%3A%7B%22id%22%3A%22b824e987ac097955e9ec456304302f3a%22%7D; Max-Age=432000; Path=/; Expires=Fri, 02 Aug 2019 04:58:56 GMT; HttpOnly
+Content-Type: text/html; charset=utf-8
+Retry-Count: 0

@@ -1,0 +1,15 @@
+200 OK
+Strict-Transport-Security: max-age=31536000
+X-Xss-Protection: 1; report="https://csp.yahoo.com/beacon/csp?src=fp-hpkp-www"
+Expires: -1
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Age: 2
+Server: ATS
+Cache-Control: no-store, no-cache, max-age=0, private
+X-Frame-Options: ALLOW-FROM https://www.yahoo.com/tv/
+Retry-Count: 0
+Content-Security-Policy: sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=entertainment&region=US&lang=en-US&device=desktop&yrid=97urgbpejrmo1&partner=;
+Content-Type: text/html; charset=utf-8
+Date: Sun, 28 Jul 2019 17:27:30 GMT

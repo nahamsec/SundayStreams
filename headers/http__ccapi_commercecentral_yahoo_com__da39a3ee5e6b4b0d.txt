@@ -1,0 +1,16 @@
+200 OK
+Set-Cookie: first_referer=http%3A%2F%2Fccapi.commercecentral.luminate.com%2F; path=/ _rockstar_session=a883b6f9af8f071b770abadac36870c2; path=/; expires=Sun, 18-Aug-2019 05:00:15 GMT; secure; HttpOnly
+Strict-Transport-Security: max-age=31536000; includeSubDomains; max-age=10886400; includeSubDomains; preload
+X-Request-Id: 41783140918513b0b1d52e0b048ec7f6
+X-Runtime: 0.040731
+Cache-Control: max-age=0, private, must-revalidate
+Etag: "2f80b2502ce4a9fbdb3f30db0537430d"
+P3p: CP="NOI DEV PSA PSD IVA PVD OTP OUR OTR IND OTC"
+Content-Type: text/html; charset=utf-8
+Date: Sun, 28 Jul 2019 05:00:15 GMT
+X-Content-Security-Policy: frame-ancestors http://*.yahoosmallbusiness.com
+Content-Security-Policy: frame-ancestors http://*.yahoosmallbusiness.com
+Status: 200 OK
+X-Rack-Cache: miss
+X-Ua-Compatible: IE=Edge,chrome=1
+Retry-Count: 0

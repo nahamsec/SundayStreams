@@ -1,0 +1,20 @@
+200 OK
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=15552001
+Set-Cookie: pfg=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.tumblr.com; secure; HttpOnly tmgioct=5d3d2c18d3db920821472620; expires=Wed, 25-Jul-2029 05:01:12 GMT; Max-Age=315359999; path=/; domain=.tumblr.com; HttpOnly
+X-Ua-Compatible: IE=Edge,chrome=1
+X-Ua-Device: desktop
+Date: Sun, 28 Jul 2019 05:01:13 GMT
+Vary: Accept-Encoding X-UA-Device, Accept, Accept-Encoding
+Link: <https://assets.tumblr.com/images/default_avatar/pyramid_closed_128.png>; rel=icon
+Content-Type: text/html; charset=UTF-8
+P3p: CP="Tumblr's privacy policy is available here: https://www.tumblr.com/policy/en/privacy"
+X-Tumblr-Pixel-0: https://px.srvcs.tumblr.com/impixu?T=1564290072&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2hrYXVjdGlvbnMudHVtYmxyLmNvbS9wb3N0LzE2NzcyOTA0NzMxNC95YWhvbyVFNiU4QiU4RCVFOCVCMyVBM3lhaG9vJUU3JUI2JUIyJUU3JTk0JUE4JUU5JThDJUEyLSVFOSU4MSU4QiVFNCVCRCU5QyVFNSU4NSVBQyVFNSU5MSU4QSIsInJlcXR5cGUiOjAsInJvdXRlIjoiL3Bvc3QvOmlkLzpzdW1tYXJ5In0=&U=ENFHDHFOIC&K=f85e83f44a7db95c6d9250cc11e6f5c8043f2de9165e68069ac6535b4dc657c8--https://px.srvcs.tumblr.com/impixu?T=1564290072&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6
+X-Tumblr-Pixel-1: Ly9oa2F1Y3Rpb25zLnR1bWJsci5jb20vcG9zdC8xNjc3MjkwNDczMTQveWFob28lRTYlOEIlOEQlRTglQjMlQTN5YWhvbyVFNyVCNiVCMiVFNyU5NCVBOCVFOSU4QyVBMi0lRTklODElOEIlRTQlQkQlOUMlRTUlODUlQUMlRTUlOTElOEEiLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii9wb3N0LzppZC86c3VtbWFyeSIsInBvc3RzIjpbeyJwb3N0aWQiOiIxNjc3MjkwNDczMTQiLCJibG9naWQiOiIzNzkwMDQ4OTYiLCJzb3VyY2UiOjMzfV19&U=COHAFLFHJJ&K=f4cd991fcfc913220b11c67cb69ed0f49df530d1ef69a36c765b06274c4cfd23
+X-Tumblr-Pixel: 2
+Retry-Count: 0
+Server: openresty
+X-Rid: 66a6ffb965b1640b0c1f0ec7fcf96cbd
+X-Xss-Protection: 1; mode=block
+X-Tumblr-User: hkauctions
+Accept-Ranges: bytes

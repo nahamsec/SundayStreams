@@ -1,0 +1,12 @@
+403 Forbidden
+Age: 0
+Server: ATS
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: no-referrer-when-downgrade
+Retry-Count: 0
+Content-Type: text/html;charset=utf-8
+Cache-Control: must-revalidate,no-cache,no-store
+Content-Length: 3122
+Date: Sun, 28 Jul 2019 04:58:50 GMT

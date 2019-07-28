@@ -1,0 +1,13 @@
+502 Cannot find server.
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+X-Frame-Options: SAMEORIGIN
+Content-Length: 3029
+Retry-Count: 0
+Date: Sun, 28 Jul 2019 05:02:01 GMT
+Via: http/1.1 media-router-omega114.prod.media.gq1.yahoo.com (ApacheTrafficServer [cMs f ])
+Server: ATS
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: no-referrer-when-downgrade

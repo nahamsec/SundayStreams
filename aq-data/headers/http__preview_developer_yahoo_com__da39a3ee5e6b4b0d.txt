@@ -1,0 +1,16 @@
+200 OK
+Content-Type: text/html; charset=utf-8
+Date: Sun, 21 Jul 2019 18:34:57 GMT
+Via: http/1.1 media-router-omega24.prod.media.gq1.yahoo.com (ApacheTrafficServer [cMsSf ])
+X-Xss-Protection: 1; mode=block
+Cache-Control: private, max-age=0, no-cache
+Etag: "337893775"
+Vary: Accept-Encoding
+Referrer-Policy: no-referrer-when-downgrade
+X-Frame-Options: SAMEORIGIN
+Server: ATS
+Set-Cookie: ydn-oidc=s%3Az6BtcJnxHMXiqSZ_d92vPn0CDH8C_M3R.%2FOu3IHDggFxt%2Fp3la%2Bd8t6SGlpwHm6TtvMrXoe05Mfg; Path=/; Expires=Sun, 21 Jul 2019 18:36:57 GMT; HttpOnly B=3og0lqlej9c2g&b=3&s=1t; expires=Mon, 20-Jul-2020 18:34:57 GMT; path=/; domain=.yahoo.com
+X-Powered-By: Express
+Age: 1
+Retry-Count: 0
+X-Content-Type-Options: nosniff

@@ -1,0 +1,13 @@
+200 OK
+X-Xss-Protection: 1; mode=block
+Cache-Control: must-revalidate,no-cache,no-store
+Strict-Transport-Security: max-age=15552000
+Date: Sun, 28 Jul 2019 05:00:04 GMT
+Retry-Count: 0
+Referrer-Policy: no-referrer-when-downgrade
+Content-Type: text/html;charset=utf-8
+Server: ATS
+Age: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding

@@ -1,0 +1,13 @@
+502 Cannot find server.
+Content-Type: text/html
+Content-Language: en
+Content-Length: 3054
+Server: ATS
+Cache-Control: no-store
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: no-referrer-when-downgrade
+Retry-Count: 0
+Date: Sun, 21 Jul 2019 18:34:45 GMT
+Via: http/1.1 media-router-omega12.canary.media.bf1.yahoo.com (ApacheTrafficServer [cMs f ])
+X-Frame-Options: SAMEORIGIN

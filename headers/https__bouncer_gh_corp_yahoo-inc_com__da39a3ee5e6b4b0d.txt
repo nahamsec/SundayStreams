@@ -1,0 +1,12 @@
+200 OK
+Cache-Control: private
+X-Frame-Options: DENY
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Strict-Transport-Security: max-age=31536000
+Server: ATS
+P3p: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Set-Cookie: BX=631fq8lejqb2u&b=3&s=vh; expires=Mon, 27-Jul-2020 05:02:22 GMT; path=/; domain=.yahoo-inc.com
+Retry-Count: 0
+Date: Sun, 28 Jul 2019 05:02:22 GMT
+Vary: Accept-Encoding

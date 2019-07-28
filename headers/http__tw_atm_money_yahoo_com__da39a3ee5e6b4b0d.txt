@@ -1,0 +1,19 @@
+200 OK
+Date: Sun, 28 Jul 2019 05:02:23 GMT
+X-Xss-Protection: 1
+Retry-Count: 0
+X-Content-Type-Options: NOSNIFF
+Content-Security-Policy: sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=frontpage&region=TW&lang=zh-Hant-TW&device=desktop&yrid=ehvs8k5ejqb2v&partner=;
+Age: 0
+Cache-Control: no-store, no-cache, max-age=0, private
+Accept-Ch: device-memory, dpr, width, viewport-width, rtt, downlink, ect
+Accept-Ch-Lifetime: 604800
+Set-Cookie: autorf=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=tw.yahoo.com
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: no-referrer-when-downgrade
+Expires: -1

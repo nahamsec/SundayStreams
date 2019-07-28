@@ -1,0 +1,10 @@
+400 Bad Request
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Date: Sun, 28 Jul 2019 04:59:56 GMT
+Age: 0
+Retry-Count: 0
+Strict-Transport-Security: max-age=31536000
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff

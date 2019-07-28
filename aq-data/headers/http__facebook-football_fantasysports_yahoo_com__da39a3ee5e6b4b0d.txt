@@ -1,0 +1,15 @@
+200 OK
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Content-Security-Policy: sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-modals allow-presentation;
+X-Frame-Options: SAMEORIGIN
+Server: ATS
+Strict-Transport-Security: max-age=15552000
+Retry-Count: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Date: Sun, 21 Jul 2019 18:34:44 GMT
+Referrer-Policy: no-referrer-when-downgrade
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Vary: Y-PATH,COOKIE,Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Age: 0

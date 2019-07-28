@@ -1,0 +1,13 @@
+502 Cannot find server.
+Via: http/1.1 media-router-omega13.canary.media.bf1.yahoo.com (ApacheTrafficServer [cMs f ])
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+Content-Length: 3049
+Date: Sun, 28 Jul 2019 04:59:57 GMT
+Server: ATS
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: no-referrer-when-downgrade
+Retry-Count: 0

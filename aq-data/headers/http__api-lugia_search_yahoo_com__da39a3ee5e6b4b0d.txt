@@ -1,0 +1,13 @@
+502 Cannot find server.
+Server: ATS
+Content-Type: text/html
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: no-referrer-when-downgrade
+Content-Length: 3034
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Date: Sun, 21 Jul 2019 18:34:45 GMT
+Retry-Count: 0
+Via: http/1.1 media-router-omega73.prod.media.gq1.yahoo.com (ApacheTrafficServer [cMs f ])
+Cache-Control: no-store
+Content-Language: en

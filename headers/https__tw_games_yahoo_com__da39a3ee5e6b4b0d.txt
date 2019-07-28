@@ -1,0 +1,15 @@
+200 OK
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Cache-Status: MISS
+X-Cluster: elektro
+Age: 0
+Date: Sun, 28 Jul 2019 05:03:00 GMT
+Content-Type: text/html; charset=utf-8
+Strict-Transport-Security: max-age=31536000
+Cache-Control: no-store, no-cache, private
+Retry-Count: 0
+Content-Security-Policy: frame-ancestors https://*.yahoo.com https://*.yahoo.net https://*.yahoo.com.tw https://*.yahoo.com.hk https://*.yahoodns.net https://*.tumblr.com https://tw.discount.yahoo.net;

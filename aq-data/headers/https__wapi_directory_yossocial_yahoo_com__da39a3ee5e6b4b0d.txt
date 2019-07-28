@@ -1,0 +1,16 @@
+404 Not Found
+Y-Rid: 9rhocs9ej9c26
+Date: Sun, 21 Jul 2019 18:34:46 GMT
+Content-Length: 3171
+Server: ATS
+Cache-Control: must-revalidate,no-cache,no-store
+Content-Type: text/html;charset=utf-8
+Age: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Retry-Count: 0
+X-Yahoo-Social-Host: ws101.progrss.gq1.yahoo.com
+X-Yahoo-Social-Data-Source: default_source

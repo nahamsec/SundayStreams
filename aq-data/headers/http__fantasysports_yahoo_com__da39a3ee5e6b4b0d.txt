@@ -1,0 +1,16 @@
+200 OK
+Retry-Count: 0
+Server: ATS
+X-Content-Type-Options: nosniff
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Date: Sun, 21 Jul 2019 18:34:44 GMT
+P3p: policyref="http://info.yahoo.com/w3c/p3p.xml, CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV
+Strict-Transport-Security: max-age=15552000
+Expires: -1
+Content-Type: text/html; charset=utf-8
+Content-Security-Policy: sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=sports&region=US&lang=en-US&device=desktop&yrid=c9pgpe1ej9c24&partner=;
+Cache-Control: max-age=0, private
+Age: 0
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: no-referrer-when-downgrade

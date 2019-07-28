@@ -1,0 +1,13 @@
+200 
+Set-Cookie: _ab_user=41; Expires=Tue, 27-Aug-2019 05:02:20 GMT; Path=/ _ab_t_scarfState=72; Expires=Tue, 27-Aug-2019 05:02:20 GMT; Path=/ _ab_t_compareSocialSolicitationPlacement=34; Expires=Tue, 27-Aug-2019 05:02:20 GMT; Path=/
+X-Aol-Snh: 357b1810ce4385140cf8377c08c4b73e
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Retry-Count: 0
+Access-Control-Allow-Origin: *
+Date: Sun, 28 Jul 2019 05:02:20 GMT
+Server: nginx
+Content-Security-Policy: default-src https: 'unsafe-inline' 'unsafe-eval';  img-src https: data:; object-src 'none'; worker-src 'self'; upgrade-insecure-requests; block-all-mixed-content; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation allow-top-navigation allow-top-navigation-by-user-activation allow-modals;
+Content-Type: text/html;charset=UTF-8
+Cache-Control: no-store
+Vary: accept-encoding
+Content-Language: en

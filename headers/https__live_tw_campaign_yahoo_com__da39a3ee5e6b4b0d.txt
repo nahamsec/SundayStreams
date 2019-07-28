@@ -1,0 +1,15 @@
+403 Forbidden
+Retry-Count: 0
+Date: Sun, 28 Jul 2019 05:01:29 GMT
+Age: 0
+X-Frame-Options: DENY
+Referrer-Policy: strict-origin-when-cross-origin
+Server: ATS
+Content-Type: text/html
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Length: 162
+Alt-Svc: clear clear
+Via: 1.1 google, 1.1 google, https/1.1 c104.livehouse.media.tp2.yahoo.com (ApacheTrafficServer [cMsSf ]), https/1.1 r207.livehouse.media.tp2.yahoo.com (ApacheTrafficServer [cMsSf ])
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"

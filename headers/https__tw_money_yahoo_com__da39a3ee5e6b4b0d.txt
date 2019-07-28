@@ -1,0 +1,14 @@
+200 OK
+Content-Security-Policy: frame-ancestors https://*.yahoo.com https://*.yahoo.net https://*.yahoo.com.tw https://*.yahoo.com.hk https://*.yahoodns.net https://*.tumblr.com https://tw.discount.yahoo.net;
+Set-Cookie: B=2qkg5nhejqasp&b=3&s=fl; expires=Mon, 27-Jul-2020 04:59:05 GMT; path=/; domain=.yahoo.com
+Age: 0
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Vary: Accept-Encoding
+Date: Sun, 28 Jul 2019 04:59:05 GMT
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000
+Content-Type: text/html
+Retry-Count: 0

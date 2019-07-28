@@ -1,0 +1,12 @@
+502 Cannot find server.
+X-Content-Type-Options: nosniff
+Date: Sun, 28 Jul 2019 18:23:12 GMT
+Retry-Count: 0
+Strict-Transport-Security: max-age=15552000
+Cache-Control: no-store
+Content-Language: en
+Server: ATS
+Content-Type: text/html
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+Content-Length: 5565

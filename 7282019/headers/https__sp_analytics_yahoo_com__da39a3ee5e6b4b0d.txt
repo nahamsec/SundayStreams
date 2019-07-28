@@ -1,0 +1,15 @@
+404 Not Found
+Content-Length: 315
+Age: 0
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Cache-Control: must-revalidate,no-cache,no-store
+Server: ATS
+Set-Cookie: B=8cba16lejrmo6&b=3&s=jd; expires=Mon, 27-Jul-2020 17:27:34 GMT; path=/; domain=.yahoo.com
+Date: Sun, 28 Jul 2019 17:27:34 GMT
+Content-Type: text/html;charset=iso-8859-1
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+Retry-Count: 0

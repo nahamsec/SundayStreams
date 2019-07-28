@@ -1,0 +1,17 @@
+200 OK
+Date: Sun, 28 Jul 2019 17:04:50 GMT
+Warning: 110 Response is stale
+Cache-Control: max-age=0, private
+Retry-Count: 0
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=15552000
+Content-Security-Policy: sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=sports&region=ES&lang=es-ES&device=desktop&yrid=3apqmk1ejrmp9&partner=;
+Expires: -1
+Age: 1399
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html; charset=utf-8
+Server: ATS
+P3p: policyref="http://info.yahoo.com/w3c/p3p.xml, CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"

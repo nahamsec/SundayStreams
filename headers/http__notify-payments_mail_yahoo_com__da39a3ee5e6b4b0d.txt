@@ -1,0 +1,13 @@
+502 Cannot find server.
+Content-Language: en
+X-Frame-Options: DENY
+Referrer-Policy: strict-origin-when-cross-origin
+Retry-Count: 0
+Content-Type: text/html
+Via: http/1.1 kubenode27.prod1.ensemble.bf1.yahoo.com (ApacheTrafficServer [c s f ])
+Server: ATS
+Cache-Control: no-store
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Length: 391
+Date: Sun, 28 Jul 2019 04:58:37 GMT

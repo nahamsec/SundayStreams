@@ -1,0 +1,17 @@
+200 OK
+Referrer-Policy: no-referrer-when-downgrade
+X-Powered-By: Express
+Cache-Control: private, max-age=0, no-cache
+Set-Cookie: ydn-oidc=s%3AdowO4zjECqIN4csFtZHV9vWlNpNebj0e.%2FsofqgUbLtBqE0vjgiIHKhRkWNw6qjsEp08f1JJxI28; Path=/; Expires=Sun, 28 Jul 2019 18:24:33 GMT; HttpOnly B=f0amer1ejrpv8&b=3&s=is; expires=Mon, 27-Jul-2020 18:22:33 GMT; path=/; domain=.yahoo.com
+Server: ATS
+Content-Type: text/html; charset=utf-8
+Date: Sun, 28 Jul 2019 18:22:32 GMT
+Age: 4
+Strict-Transport-Security: max-age=15552000
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Retry-Count: 0
+Etag: "706548906"
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"

@@ -1,0 +1,12 @@
+401 Unauthorized
+Strict-Transport-Security: max-age=31536000
+Content-Length: 89
+Server: CredStore
+X-Frame-Options: DENY
+Referrer-Policy: strict-origin-when-cross-origin
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=credstore-expect-ct-report-only"
+Date: Sun, 28 Jul 2019 18:22:24 GMT
+X-Xss-Protection: 1; mode=block
+Retry-Count: 0
+X-Content-Type-Options: nosniff
+Content-Type: application/json

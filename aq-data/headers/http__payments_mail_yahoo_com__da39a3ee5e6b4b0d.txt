@@ -1,0 +1,17 @@
+200 OK
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Content-Security-Policy: frame-src https://*.fls.doubleclick.net/ https://*.ui.payment.yahoo.com/ https://ui.payment.yahoo.com/ https://jsl.qat.obi.aol.com/ https://jsl.prod.obi.aol.com/ https://dev.checkout.mail.yahoo.com/ https://checkout.mail.yahoo.com/;img-src 'self' https:;report-uri https://csp.yahoo.com/beacon/csp?src=mail_adfree;script-src 'self' https://s.yimg.com/pn/yp/ 'unsafe-inline' https://s.yimg.com/ss/ https://jsl.qat.obi.aol.com/obipmservice/obick.umd.js https://jsl.prod.obi.aol.com/obipmservice/obick.umd.js https://s.aolcdn.com/membership/omp-static/omp-widget/lib/yahoo_mail/dev/1.0.1/ompwidget.min.js https://s.aolcdn.com/membership/omp-static/omp-widget/lib/yahoo_mail/prod/1.0.1/ompwidget.min.js 'nonce-djtLDgvq/dPUDf3m3WzFS5s9vsgErVpCUJ/bbFJPuVBWC8Qb' ;style-src 'self' https://s.yimg.com/av/ 'unsafe-inline'
+X-Content-Security-Policy: frame-src https://*.fls.doubleclick.net/ https://*.ui.payment.yahoo.com/ https://ui.payment.yahoo.com/ https://jsl.qat.obi.aol.com/ https://jsl.prod.obi.aol.com/ https://dev.checkout.mail.yahoo.com/ https://checkout.mail.yahoo.com/;img-src 'self' https:;report-uri https://csp.yahoo.com/beacon/csp?src=mail_adfree;script-src 'self' https://s.yimg.com/pn/yp/ 'unsafe-inline' https://s.yimg.com/ss/ https://jsl.qat.obi.aol.com/obipmservice/obick.umd.js https://jsl.prod.obi.aol.com/obipmservice/obick.umd.js https://s.aolcdn.com/membership/omp-static/omp-widget/lib/yahoo_mail/dev/1.0.1/ompwidget.min.js https://s.aolcdn.com/membership/omp-static/omp-widget/lib/yahoo_mail/prod/1.0.1/ompwidget.min.js 'nonce-djtLDgvq/dPUDf3m3WzFS5s9vsgErVpCUJ/bbFJPuVBWC8Qb' ;style-src 'self' https://s.yimg.com/av/ 'unsafe-inline'
+Age: 0
+Set-Cookie: B=5tg7mrhej9c23&b=3&s=bb; expires=Mon, 20-Jul-2020 18:34:43 GMT; path=/; domain=.yahoo.com
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=15552000
+Content-Type: text/html
+Vary: Accept-Encoding
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+X-Frame-Options: deny
+X-Powered-By: Express
+Date: Sun, 21 Jul 2019 18:34:43 GMT
+Server: ATS

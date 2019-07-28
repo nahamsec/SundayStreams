@@ -1,0 +1,16 @@
+200 OK
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: frame-ancestors https://*.yahoo.com https://*.yahoo.net https://*.yahoo.com.tw https://*.yahoo.com.hk https://*.yahoodns.net https://*.tumblr.com https://tw.discount.yahoo.net;
+X-Cache-Status: MISS
+Age: 0
+Retry-Count: 0
+Set-Cookie: XSRF-TOKEN=eyJpdiI6ImgzWVRoOGM2UTA4bUM0VlNpTWVcL3pBPT0iLCJ2YWx1ZSI6IkpEa25cL0RCXC9OQUF1S01qRzhsWEg4TmxKQXg3aFBXRjBPbWF4RHlLWHl6aUE5RXlMVmx5UWMrdnJLVVhPTlVsRiIsIm1hYyI6Ijc0ZmZhYTJiN2I1ZTFiZmVkODQ0MjhjMmQxOTdmOTU0ZWRlMDJmNDBjZTU5OGFlYmU3NDQ3ZTY2MjUyYmZjMWEifQ%3D%3D; expires=Sun, 21-Jul-2019 20:34:51 GMT; Max-Age=7200; path=/; secure laravel_session=eyJpdiI6Im85ZEhJa0xEWXZhRHYwR1liNlFXOXc9PSIsInZhbHVlIjoiakwrd2p5cmRnTkNxR1htcTRHT1JVRVkrb1d5SzY3bkVcLzB5YVVJOCtTRXhMSWRCM0JqWFVzZlN3SFBVMTFLNGciLCJtYWMiOiI3N2QwNjYzZjAxNGQ0NDU4MTIzNmFiMTM4MGZmODRkMGUyYzRjYTFjZTY5MzQyZGU2YjFmMThiOWE4Y2MwZWNkIn0%3D; expires=Sun, 21-Jul-2019 20:34:51 GMT; Max-Age=7200; path=/; secure; httponly bv=eyJpdiI6IjJQTERRanZBMGY3MnZ3SFNITmlKTUE9PSIsInZhbHVlIjoickc4VHBsNUhYQmhFME5vQmJXc1g0UT09IiwibWFjIjoiMmM0NzZkMzU3YTM5OTU1N2FlOTIzMTNkMGRiZDJiMTQyMjdkM2Y3ZjRmN2FmZTJlNjQ1MWY1MGQxNGFjMmM1OCJ9; expires=Mon, 22-Jul-2019 18:34:51 GMT; Max-Age=86400; path=/; httponly
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Server: ATS
+Vary: Accept-Encoding
+Cache-Control: no-cache, private
+Date: Sun, 21 Jul 2019 18:34:51 GMT
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000

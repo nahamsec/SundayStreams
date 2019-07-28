@@ -1,0 +1,18 @@
+200 OK
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Expires: -1
+Retry-Count: 0
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Accept-Ch-Lifetime: 604800
+Set-Cookie: autorf=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=tw.yahoo.com B=3ka026pej9c28&b=3&s=3b; expires=Mon, 20-Jul-2020 18:34:48 GMT; path=/; domain=.yahoo.com
+Cache-Control: no-store, no-cache, max-age=0, private
+Accept-Ch: device-memory, dpr, width, viewport-width, rtt, downlink, ect
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: frame-ancestors https://*.yahoo.com https://*.yahoo.net https://*.yahoo.com.tw https://*.yahoo.com.hk https://*.yahoodns.net https://*.tumblr.com https://tw.discount.yahoo.net;
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+Date: Sun, 21 Jul 2019 18:34:48 GMT
+Content-Type: text/html; charset=UTF-8
+Age: 0

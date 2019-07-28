@@ -1,0 +1,17 @@
+200 OK
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+Cache-Control: no-cache, no-store, private, must-revalidate
+Date: Sun, 28 Jul 2019 05:02:04 GMT
+Request-Id: d77d3562-b0f4-11e9-90af-06a832e2c542
+X-Aol-Hn: i-001bed1e0f591d850
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: no-referrer-when-downgrade
+Vary: Accept-Encoding
+Age: 0
+Content-Type: text/html;charset=UTF-8
+Server: ATS
+Set-Cookie: firstview=1564290124; expires=Mon, 29-Jul-2019 05:02:04 GMT; Max-Age=86400; path=/; domain=aol.com; httponly dlExpire=1564290124; expires=Sun, 28-Jul-2019 05:22:04 GMT; Max-Age=1200; path=/ dlTimestamp=1564290124; expires=Sun, 28-Jul-2019 05:22:04 GMT; Max-Age=1200; path=/ dlIsOn=1; expires=Sun, 28-Jul-2019 05:22:04 GMT; Max-Age=1200; path=/ AMPCSRF=ZgE6p3Bgh%2F9d4n8IYqxzqWVVtdYIh3LhusJyqkLy958%3D; path=/; secure; httponly BX=5n3fq05ejqb2c&b=3&s=bs; expires=Mon, 27-Jul-2020 05:02:04 GMT; path=/; domain=.aol.com
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Content-Security-Policy: upgrade-insecure-requests; block-all-mixed-content; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation allow-orientation-lock allow-pointer-lock;

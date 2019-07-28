@@ -1,0 +1,16 @@
+404 Not Found
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Age: 1
+X-Frame-Options: DENY
+X-Yahoo-Social-Host: ws123.progrss.gq1.yahoo.com
+Y-Rid: ecgnh2lejqav2
+Referrer-Policy: strict-origin-when-cross-origin
+Server: ATS
+Cache-Control: must-revalidate,no-cache,no-store
+Content-Type: text/html;charset=utf-8
+Date: Sun, 28 Jul 2019 05:00:17 GMT
+Retry-Count: 0
+X-Yahoo-Social-Data-Source: default_source
+Content-Length: 3171
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"

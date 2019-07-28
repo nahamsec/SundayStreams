@@ -1,0 +1,22 @@
+200 OK
+Server: Apache
+Access-Control-Allow-Credentials: true
+X-Jive-Request-Id: 84f70200-b0f4-11e9-8694-0050568b39ec
+X-Jive-Flow-Id: 84f70201-b0f4-11e9-8694-0050568b39ec
+P3p: CP="CAO PSA OUR"
+Expires: Sun, 28 Jul 2019 04:59:46 GMT
+Access-Control-Max-Age: 2592000
+X-Frame-Options: SAMEORIGIN
+Content-Language: en-US
+Cache-Control: no-store, no-cache, must-revalidate, private, max-age=0
+Date: Sun, 28 Jul 2019 04:59:46 GMT
+Vary: Accept-Encoding
+Access-Control-Allow-Origin: https://thestreet.ouroath.com
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Jive-Chrome-Wrapped: true
+Retry-Count: 0
+X-Jsl: D=60122 t=1564289986078948
+X-Jive-User-Id: -1
+X-Content-Type-Options: nosniff
+Content-Type: text/html;charset=UTF-8
+Set-Cookie: jive.security.context=onj8HDMBJ0bU3YqDiX516v//////////rAkp/18iKLMXB3xvfyPWzQ5qZFvDnKjMSX5ieSHOXJuBXan6DQdoEFszcwtc57+bHByNMOs9rpUlDgdqwJ/65RhZxKVDz1e4; Path=/; Secure; HttpOnly;HttpOnly

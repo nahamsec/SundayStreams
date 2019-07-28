@@ -1,0 +1,14 @@
+404 Not Found
+X-Yahoo-Social-Host: ws117.contacts.gq1.yahoo.com
+Y-Rid: 5t5ka6dejqas0
+Content-Length: 0
+Date: Sun, 28 Jul 2019 04:58:40 GMT
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+Retry-Count: 0
+X-Frame-Options: SAMEORIGIN
+Age: 0
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=15552000
+X-Content-Type-Options: nosniff

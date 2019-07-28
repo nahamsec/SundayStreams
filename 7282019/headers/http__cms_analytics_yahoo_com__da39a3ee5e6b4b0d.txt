@@ -1,0 +1,11 @@
+403 Forbidden
+Date: Sun, 28 Jul 2019 17:27:34 GMT
+Server: ATS
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Set-Cookie: B=6kc5c95ejrmo5&b=3&s=ej; expires=Mon, 27-Jul-2020 17:27:34 GMT; path=/; domain=.yahoo.com
+Content-Length: 0
+Age: 1
+Retry-Count: 0
+X-Frame-Options: DENY

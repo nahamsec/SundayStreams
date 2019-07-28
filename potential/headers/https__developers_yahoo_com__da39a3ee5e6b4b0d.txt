@@ -1,0 +1,17 @@
+200 OK
+Set-Cookie: ydn-oidc=s%3AHRVDQ-LTTOtKq5m54Im6MSXGXnhdxw1H.GPtrnnM8dT3n0u%2BtZHyvWFlFM%2FdA0oq8PQStlBWWAmo; Path=/; Expires=Sun, 28 Jul 2019 18:24:33 GMT; HttpOnly
+Age: 3
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Retry-Count: 0
+Date: Sun, 28 Jul 2019 18:22:33 GMT
+Server: ATS
+X-Frame-Options: SAMEORIGIN
+Cache-Control: private, max-age=0, no-cache
+Content-Type: text/html; charset=utf-8
+Etag: "1570334036"
+X-Powered-By: Express
+Referrer-Policy: no-referrer-when-downgrade
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=15552000

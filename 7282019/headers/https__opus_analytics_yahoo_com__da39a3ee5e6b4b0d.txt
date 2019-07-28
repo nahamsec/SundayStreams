@@ -1,0 +1,13 @@
+200 OK
+Last-Modified: Wed, 13 Feb 2019 20:40:06 GMT
+X-Amz-Id-2: +/3TmPTbzDN0qUjOqhzu+aOlnB302YE1mqfHzVOVeDURRnxnUtBKGZO/MUoizHX1QLJyEl3XQxQ=
+X-Amz-Request-Id: F9EDEAAAD5C4E8E7
+X-Cache: HIT
+Content-Length: 111
+Accept-Ranges: bytes
+Content-Security-Policy: default-src https:; script-src https: 'unsafe-inline'; style-src https: 'unsafe-inline'
+Content-Type: text/html
+Date: Sun, 28 Jul 2019 17:27:33 GMT
+Etag: "a93dc36c2812de217d917df977c39e97"
+Server: ECAcc (sab/578E)
+Retry-Count: 0

@@ -1,0 +1,14 @@
+404 Not Found
+Retry-Count: 0
+Date: Sun, 28 Jul 2019 18:22:41 GMT
+X-Content-Type-Options: nosniff
+Content-Security-Policy-Report-Only: default-src 'none'; block-all-mixed-content; connect-src https://*.huffingtonpost.co.uk https://*.huffingtonpost.com 'self'; frame-ancestors 'none'; img-src https://s.yimg.com https://oath-aws-guce-fe-dev.s3.amazonaws.com https://*.huffingtonpost.co.uk https://*.huffingtonpost.com; media-src 'none'; script-src 'self' 'nonce-SxOQAyLFWQk7holX2wZ77o4HsWwxVv4w' https://s.yimg.com https://oath-aws-guce-fe-dev.s3.amazonaws.com https://*.huffingtonpost.co.uk https://*.huffingtonpost.com; style-src 'self' 'nonce-SxOQAyLFWQk7holX2wZ77o4HsWwxVv4w' https://s.yimg.com https://oath-aws-guce-fe-dev.s3.amazonaws.com https://*.huffingtonpost.co.uk https://*.huffingtonpost.com; font-src 'self'; object-src 'none'; frame-src 'none'; report-uri https://csp.yahoo.com/beacon/csp?src=guce
+Pragma: no-cache
+Referrer-Policy: origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Type: text/html;charset=UTF-8
+Expires: 0
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: DENY
+Cache-Control: no-cache, no-store, must-revalidate
+Server: guce

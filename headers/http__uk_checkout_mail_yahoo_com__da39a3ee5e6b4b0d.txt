@@ -1,0 +1,17 @@
+200 OK
+Referrer-Policy: origin-when-cross-origin
+Cache-Control: nocache, no-store, must-revalidate
+Content-Security-Policy-Report-Only: child-src 'self' https://login.yahoo.net https://s.yimg.com https://s1.yimg.com;connect-src 'self' https://geo.yahoo.com https://pr.comet.yahoo.com https://ws.progrss.yahoo.com https://udc.yahoo.com;default-src 'self' https://s.yimg.com https://s1.yimg.com https://login.yahoo.net;font-src https://s.yimg.com https://s1.yimg.com;frame-src 'self' https://login.yahoo.net https://s.yimg.com https://s1.yimg.com;img-src 'self' data: https://yahoo.com https://ct.yimg.com https://s.yimg.com https://s1.yimg.com https://tw.yimg.com https://geo.yahoo.com https://socialprofiles.zenfs.com https://*.wc.yahoodns.net https://beap-bc.yahoo.com https://ws.progrss.yahoo.com https://log.fc.yahoo.com https://backyard.yahoo.com https://*.ah.yahoo.com https://pr-bh.ybp.yahoo.com https://fbcdn.net https://scontent.xx.fbcdn.net https://z-m-scontent.xx.fbcdn.net https://graph.facebook.com https://data.mail.yahoo.com https://sb.scorecardresearch.com;media-src https://*.ah.yahoo.com;report-uri https://csp.yahoo.com/beacon/csp?src=mbr_account;script-src 'self' 'unsafe-eval' https://s.yimg.com https://s1.yimg.com https://query.yahoo.com https://*.query.yahoo.com https://y.analytics.yahoo.com https://jsapi.login.yahoo.com https://fc.yahoo.com https://pr.comet.yahoo.com 'nonce-1QujrvIlVsb1vCWMCX8jeXjUFIYPvYV0WBX6ysjSSp2jW/4E' ;style-src * 'unsafe-inline'
+Retry-Count: 0
+Pragma: no-cache
+Vary: Accept-Encoding
+Server: ATS
+Content-Type: text/html; charset=utf-8
+Age: 0
+Set-Cookie: AS=v=1&s=5t0UqWwy&d=A5d3e7cff|HSqr9xj.2Srzef2YW8sRQ.TkYzaYF9Zq1M0SUHZS0N70mL9NKLHW_oriPn2mNTS4fmGacDlrSH6S3kkTeVAPB2xrwicmocYnszHKlrqTEJwqwAxXPuDn7XyujXmn9yW2D1v7YbskaOgkJE0YAePEcTkORuJg3WOtmNn3I9bjcJHz8ayl97xVxLsi1BKKmT04d7gNISPr8pwbkT2lgL3kR1AtT78IuDmEbIniXlyur9PhypAWCTav5imwvKyl9FQWnNQWlv6RAMs2FBV4htrBCbh1CKH35HBOKBZHRwMi77i8n5bPuM1gdHPKF3GjQ9y2Goi215cR_VzbqBDDl.ZdQendjVzlChdKq_nEcDTLXwawydyIdbKL91w17cq0sqcbTgwIgfZyDpnoTtbA7pvyL2umH6rgkmymMgh4CXo59tDbaj.Jsl19hW_02HdvtXIaZpnFdAvBaPmNYJrrD6JvEhV9FofTx7FMLaoFUmejdzl8Xhcf.UV4a4X.rcDDdgpu87wtnrcBJ3EujId_pUYK_yxUOAGWggcF4JcRTi6z4nbPFJ3PHQdl4wcmOZjVFVyi2iVK0GlZmNReVP7nrW.xXEpabvcCct0_OH8jdDFWKlexcCR4Ap0jQRdcZRKB9eVYtf5w45KDAUIA1U3FVJcDlTMh8y0l0Q8ZizsZXR8PlW.wog.RpMS2T_xqQJigvcdMUupSJarsVmttWdu7zcB8QffribcCFHj3Czm2vevQ5VGqZUJLBTjD3ewd_dWmPbcif3UOFXuOVW5apPKjH6B_j8VxaAHwa88NuWlXBoM6FwafLmteiA--~A; path=/; domain=login.yahoo.com; secure; HttpOnly
+Strict-Transport-Security: max-age=15552000
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Expires: 0
+Date: Sun, 28 Jul 2019 04:58:39 GMT
+X-Frame-Options: DENY

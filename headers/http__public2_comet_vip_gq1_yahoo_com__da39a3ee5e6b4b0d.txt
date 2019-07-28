@@ -1,0 +1,8 @@
+400 Bad Request
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Date: Sun, 28 Jul 2019 05:02:11 GMT
+Age: 0
+Retry-Count: 0

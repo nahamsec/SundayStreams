@@ -1,0 +1,11 @@
+200 OK
+Date: Sun, 21 Jul 2019 18:34:49 GMT
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Server: nginx
+Retry-Count: 0
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.5.17
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=63072000; includeSubDomains

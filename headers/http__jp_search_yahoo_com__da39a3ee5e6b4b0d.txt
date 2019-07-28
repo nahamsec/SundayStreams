@@ -1,0 +1,10 @@
+200 OK
+Server: ATS
+Date: Sun, 28 Jul 2019 05:02:29 GMT
+Content-Type: text/html; charset=UTF-8
+P3p: policyref="http://privacy.yahoo.co.jp/w3c/p3p_jp.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE GOV"
+X-Frame-Options: SAMEORIGIN
+Age: 0
+Via: http/1.1 edge1527.img.bbt.yahoo.co.jp (ApacheTrafficServer [c sSf ])
+Vary: Accept-Encoding
+Retry-Count: 0

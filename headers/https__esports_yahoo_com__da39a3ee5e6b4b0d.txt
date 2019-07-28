@@ -1,0 +1,17 @@
+200 OK
+Strict-Transport-Security: max-age=15552000
+Expires: -1
+Age: 2300
+Retry-Count: 0
+Content-Type: text/html; charset=utf-8
+Date: Sun, 28 Jul 2019 04:20:33 GMT
+P3p: policyref="http://info.yahoo.com/w3c/p3p.xml, CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV
+Warning: 110 Response is stale
+X-Xss-Protection: 1; mode=block
+Set-Cookie: B=dv9no5pejqasd&b=3&s=ao; expires=Mon, 27-Jul-2020 04:58:53 GMT; path=/; domain=.yahoo.com
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=sports&region=US&lang=en-US&device=desktop&yrid=13cqv01ejqasd&partner=;
+Cache-Control: max-age=0, private

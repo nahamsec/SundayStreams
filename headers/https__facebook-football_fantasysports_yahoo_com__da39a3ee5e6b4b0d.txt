@@ -1,0 +1,18 @@
+502 Cannot find server.
+Set-Cookie: B=2edf8flejqasd&b=3&s=4s; expires=Mon, 27-Jul-2020 04:58:53 GMT; path=/; domain=.yahoo.com
+Retry-Count: 0
+X-Xss-Protection: 1; mode=block
+Content-Length: 3048
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: no-referrer-when-downgrade
+Cache-Control: max-age=0, private
+Strict-Transport-Security: max-age=15552000
+X-Content-Type-Options: nosniff
+Date: Sun, 28 Jul 2019 04:58:53 GMT
+Content-Type: text/html
+Content-Language: en
+X-Bypass-Ssl-Transform: 1
+Expires: -1
+Age: 0
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"

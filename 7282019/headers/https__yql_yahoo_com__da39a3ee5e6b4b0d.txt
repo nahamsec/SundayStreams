@@ -1,0 +1,14 @@
+502 Cannot find server.
+Referrer-Policy: no-referrer-when-downgrade
+Age: 0
+Date: Sun, 28 Jul 2019 17:28:18 GMT
+Strict-Transport-Security: max-age=15552000
+Server: ATS
+Cache-Control: no-store
+Content-Language: en
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html
+Content-Length: 5556
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Retry-Count: 0

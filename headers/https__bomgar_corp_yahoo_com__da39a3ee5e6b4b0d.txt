@@ -1,0 +1,12 @@
+200 OK
+Strict-Transport-Security: max-age=31536000
+X-Ua-Compatible: IE=edge
+Content-Type: text/html; charset=utf-8
+Server: Bomgar
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Set-Cookie: ns_s=1a28e33a0d977f55717bcde81b73592f1c2ce621; path=/; secure; HttpOnly
+Retry-Count: 0
+Vary: Accept-Encoding
+Date: Sun, 28 Jul 2019 04:59:46 GMT
+Pragma: no-cache
+Cache-Control: no-cache

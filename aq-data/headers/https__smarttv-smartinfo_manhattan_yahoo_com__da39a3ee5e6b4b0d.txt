@@ -1,0 +1,22 @@
+200 OK
+Etag: "e38d7cf533d32f62e782470a38b12e9c-df"
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+Strict-Transport-Security: max-age=15552000
+Content-Type: text/html
+Server: ATS
+Age: 5317267
+X-Amz-Meta-X-Ysws-Access: public
+Accept-Ranges: bytes
+Referrer-Policy: no-referrer-when-downgrade
+Vary: Origin, Accept-Encoding
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Date: Tue, 21 May 2019 05:33:42 GMT
+X-Amz-Server-Side-Encryption: AES256
+Expires: Sun, 06 May 2035 17:08:39 GMT
+Cache-Control: public, max-age=536112000
+X-Amz-Meta-X-Ysws-Meta-Yahoo-Content-Type: text/html
+X-Xss-Protection: 1; mode=block
+X-Amz-Id-2: u32NFaB1Cy7JuL1ihfJa0Na9IhZ2Pdk6FYNjTvSqP0kwEAOvyQGIKzAhraEp+weVI84rnN0Igdo=
+X-Amz-Request-Id: E44E19AA6AA171A4
+Last-Modified: Thu, 10 May 2018 17:08:41 GMT

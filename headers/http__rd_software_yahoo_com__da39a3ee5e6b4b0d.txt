@@ -1,0 +1,14 @@
+200 OK
+Server: ATS
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Date: Sun, 28 Jul 2019 04:35:47 GMT
+Content-Security-Policy: sandbox; default-src 'self'; script-src 'none'; object-src 'none'; report-uri https://csp.yahoo.com/beacon/csp?src=generic
+Retry-Count: 0
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Cache-Control: max-age=3600, public
+Age: 1549
+X-Xss-Protection: 1; mode=block
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: strict-origin-when-cross-origin

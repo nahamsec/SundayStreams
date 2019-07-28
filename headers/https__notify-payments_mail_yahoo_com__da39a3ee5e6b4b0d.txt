@@ -1,0 +1,18 @@
+200 OK
+X-Xss-Protection: 1;mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Date: Sun, 28 Jul 2019 04:58:37 GMT
+Server: ATS
+Referrer-Policy: strict-origin-when-cross-origin
+Via: http/1.1 kubenode12.prod1.ensemble.bf1.yahoo.com (ApacheTrafficServer [c sSf ])
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: no-sniff
+Content-Type: text/html
+Vary: Accept-Encoding
+Age: 0
+Retry-Count: 0
+X-Powered-By: Express
+X-Content-Security-Policy: frame-src https://*.fls.doubleclick.net/ https://*.ui.payment.yahoo.com/ https://ui.payment.yahoo.com/ https://jsl.qat.obi.aol.com/ https://jsl.prod.obi.aol.com/ https://dev.checkout.mail.yahoo.com/ https://checkout.mail.yahoo.com/;img-src 'self' https:;report-uri https://csp.yahoo.com/beacon/csp?src=mail_adfree;script-src 'self' https://s.yimg.com/pn/yp/ 'unsafe-inline' https://s.yimg.com/ss/ https://jsl.qat.obi.aol.com/obipmservice/obick.umd.js https://jsl.prod.obi.aol.com/obipmservice/obick.umd.js https://s.aolcdn.com/membership/omp-static/omp-widget/lib/yahoo_mail/dev/1.0.1/ompwidget.min.js https://s.aolcdn.com/membership/omp-static/omp-widget/lib/yahoo_mail/prod/1.0.1/ompwidget.min.js 'nonce-HXvhj2dQs+1CCZL+gzrDO0tpuVrCZDv8/2dUR7iRm5eTevNu' ;style-src 'self' https://s.yimg.com/av/ 'unsafe-inline'
+Set-Cookie: B=1e956thejqart&b=3&s=bk; expires=Mon, 27-Jul-2020 04:58:37 GMT; path=/; domain=.yahoo.com
+X-Frame-Options: deny
+Content-Security-Policy: frame-src https://*.fls.doubleclick.net/ https://*.ui.payment.yahoo.com/ https://ui.payment.yahoo.com/ https://jsl.qat.obi.aol.com/ https://jsl.prod.obi.aol.com/ https://dev.checkout.mail.yahoo.com/ https://checkout.mail.yahoo.com/;img-src 'self' https:;report-uri https://csp.yahoo.com/beacon/csp?src=mail_adfree;script-src 'self' https://s.yimg.com/pn/yp/ 'unsafe-inline' https://s.yimg.com/ss/ https://jsl.qat.obi.aol.com/obipmservice/obick.umd.js https://jsl.prod.obi.aol.com/obipmservice/obick.umd.js https://s.aolcdn.com/membership/omp-static/omp-widget/lib/yahoo_mail/dev/1.0.1/ompwidget.min.js https://s.aolcdn.com/membership/omp-static/omp-widget/lib/yahoo_mail/prod/1.0.1/ompwidget.min.js 'nonce-HXvhj2dQs+1CCZL+gzrDO0tpuVrCZDv8/2dUR7iRm5eTevNu' ;style-src 'self' https://s.yimg.com/av/ 'unsafe-inline'

@@ -1,0 +1,12 @@
+502 Cannot find server.
+Retry-Count: 0
+Date: Sun, 28 Jul 2019 05:01:58 GMT
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Content-Length: 5565
+Content-Language: en
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=15552000
+Cache-Control: no-store
+Content-Type: text/html

@@ -1,0 +1,14 @@
+404 Not Found
+Content-Security-Policy-Report-Only: default-src 'none'; block-all-mixed-content; connect-src https://*.huffingtonpost.co.uk https://*.huffingtonpost.com 'self'; frame-ancestors 'none'; img-src https://s.yimg.com https://*.huffingtonpost.co.uk https://*.huffingtonpost.com; media-src 'none'; script-src 'self' 'nonce-6Zv/53p+tm5NyfZDgRCHz0rT/NyM1c14' https://s.yimg.com https://*.huffingtonpost.co.uk https://*.huffingtonpost.com; style-src 'self' 'nonce-6Zv/53p+tm5NyfZDgRCHz0rT/NyM1c14' https://s.yimg.com https://*.huffingtonpost.co.uk https://*.huffingtonpost.com; font-src 'self'; object-src 'none'; frame-src 'none'; report-uri https://csp.yahoo.com/beacon/csp?src=guce
+Expires: 0
+Pragma: no-cache
+X-Frame-Options: DENY
+Date: Sun, 21 Jul 2019 18:34:42 GMT
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, must-revalidate
+Server: guce
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Retry-Count: 0
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: origin-when-cross-origin
+Content-Type: text/html;charset=UTF-8

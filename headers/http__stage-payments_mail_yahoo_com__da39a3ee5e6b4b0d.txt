@@ -1,0 +1,13 @@
+502 Cannot find server.
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Date: Sun, 28 Jul 2019 05:01:58 GMT
+Via: http/1.1 kubenode4.canary1.ensemble.bf1.yahoo.com (ApacheTrafficServer [c s f ])
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Content-Length: 391
+Retry-Count: 0

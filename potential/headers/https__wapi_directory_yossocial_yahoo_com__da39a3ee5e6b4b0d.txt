@@ -1,0 +1,16 @@
+404 Not Found
+Y-Rid: fbu2kd9ejrq05
+Retry-Count: 0
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+X-Yahoo-Social-Host: ws121.progrss.gq1.yahoo.com
+Cache-Control: must-revalidate,no-cache,no-store
+Date: Sun, 28 Jul 2019 18:23:01 GMT
+Age: 0
+Content-Type: text/html;charset=utf-8
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+X-Yahoo-Social-Data-Source: default_source
+Content-Length: 3171
+Server: ATS
+X-Frame-Options: DENY

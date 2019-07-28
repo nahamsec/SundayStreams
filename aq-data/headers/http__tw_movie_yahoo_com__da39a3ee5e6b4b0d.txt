@@ -1,0 +1,18 @@
+200 OK
+Content-Security-Policy: frame-ancestors https://*.yahoo.com https://*.yahoo.net https://*.yahoo.com.tw https://*.yahoo.com.hk https://*.yahoodns.net https://*.tumblr.com https://tw.discount.yahoo.net;
+Content-Type: text/html; charset=UTF-8
+Cache-Control: no-cache, private no-cache, private
+X-Cache-Status: MISS
+X-Cluster: elektro
+Strict-Transport-Security: max-age=31536000
+Age: 1
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+X-Response-Time: 81ms
+Set-Cookie: avi=eyJpdiI6InFMNGtxa3huZ3RFOVpwaWlGbHBjNUE9PSIsInZhbHVlIjoiVmlsbE5WOTJTZ1A5VEpUaEozUTVFUT09IiwibWFjIjoiNDM0MmI0MGM3ZmRjMjI1NTg3ZDZiNGZjNGZiNWJhY2IwNTc1OWQxZDBlMDVhMmFjYjFjMDQzMTU5Mjg5ODhkYiJ9; expires=Mon, 22-Jul-2019 18:34:54 GMT; Max-Age=86400; path=/; domain=movies.yahoo.com.tw; httponly XSRF-TOKEN=eyJpdiI6IitETHlNdWMyVDBcL0JGYjd3Tm5qaGZ3PT0iLCJ2YWx1ZSI6Iko5N25RUUQ1QWMxVlZLKzZPODlpcFI0Z2RYWkpPRUQ2bmJielB0YkVCZVBBV0F5Q0ZKS21qVE1tNW1NYVVxWHhGTmdMUXRoR0FIUkRHcUJSazBLQlJRPT0iLCJtYWMiOiIyMjE0Y2I5YTY5NjcyNDIwNzY1NmI5NjJlNmNjZGJhOTQ0OGJlZTkwZGQ2YzE2ZjNhNDkzMTcwMmU3NTdlOThiIn0%3D; expires=Sun, 21-Jul-2019 20:34:54 GMT; Max-Age=7200; path=/; domain=movies.yahoo.com.tw m_s=eyJpdiI6IlBGZGlFUWoxSURcL205UnZjb2NmdzBnPT0iLCJ2YWx1ZSI6ImVOMGl3WFpOWDY5bGJIMHVhcEJmN3JEUnFONVhGc1psWDZLejhaa3ZBeVNQbmxVa0k5ZzZVNFZ1Q2NFYTRpMUIzR2JaNGVtTU9nT045d0F1K3ViRDR3PT0iLCJtYWMiOiJjNTQxMjJhNTY5MDQxYTUyZTU2NThiOGYwYTk4NGE4NDRiNWVhYzViMzhkZmY2MWVkYmNkYTczNTg2MDE4NzBmIn0%3D; expires=Sun, 21-Jul-2019 20:34:54 GMT; Max-Age=7200; path=/; domain=movies.yahoo.com.tw; httponly
+Referrer-Policy: no-referrer-when-downgrade
+Retry-Count: 0
+Server: ATS
+Date: Sun, 21 Jul 2019 18:34:54 GMT
+X-Xss-Protection: 1; mode=block
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"

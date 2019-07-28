@@ -1,0 +1,13 @@
+403 Forbidden
+X-Frame-Options: DENY
+Set-Cookie: B=6t7g1shejrmo6&b=3&s=52; expires=Mon, 27-Jul-2020 17:27:34 GMT; path=/; domain=.yahoo.com
+Age: 0
+Content-Length: 0
+Server: ATS
+Retry-Count: 0
+Strict-Transport-Security: max-age=31536000
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Date: Sun, 28 Jul 2019 17:27:34 GMT
+Referrer-Policy: strict-origin-when-cross-origin

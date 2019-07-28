@@ -1,0 +1,20 @@
+200 OK
+Expires: -1
+X-Aspnet-Version: 4.0.30319
+Date: Sun, 21 Jul 2019 18:34:53 GMT
+Referrer-Policy: strict-origin-when-cross-origin
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Access-Control-Allow-Headers: Content-Type
+Age: 0
+Strict-Transport-Security: max-age=31536000
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Server: ATS
+X-Powered-By: ASP.NET
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Content-Type: text/html; charset=utf-8
+Content-Length: 294
+Retry-Count: 0

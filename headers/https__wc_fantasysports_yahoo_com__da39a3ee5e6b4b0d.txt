@@ -1,0 +1,17 @@
+404 Not Found
+Set-Cookie: B=1ld193hejqasd&b=3&s=27; expires=Mon, 27-Jul-2020 04:58:53 GMT; path=/; domain=.yahoo.com
+X-Xss-Protection: 1; mode=block
+Date: Sun, 28 Jul 2019 04:58:53 GMT
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Content-Security-Policy: sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-modals allow-presentation;
+Strict-Transport-Security: max-age=15552000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Age: 2
+Server: ATS
+Content-Type: text/html; charset=UTF-8
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Retry-Count: 0
+Referrer-Policy: no-referrer-when-downgrade
+Cache-Control: max-age=0, private
+Expires: -1

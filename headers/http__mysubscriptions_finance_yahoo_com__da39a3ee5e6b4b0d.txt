@@ -1,0 +1,17 @@
+200 OK
+Server: ATS
+X-Frame-Options: DENY
+Vary: Accept-Encoding
+Expires: 0
+Set-Cookie: AS=v=1&s=p4Z7faqU&d=A5d3e7de1|cVc0pcL.2Sor.CXBEAy1JmfPjiEC5rMEKTVie7GGGW7ouwHOXM_0Q7jembA_RERYrTRY0TKTBPyJK9Q9Ij8EQcwwJ1fVDsCK.vGVScPCb6cxFqXi3_F4WLkb0lKogJVFYY.RF0uoGhlh9rDIcYbnwsPNHpliCWPFf7KZNQNIxPfXAE3SAPBnecE9ZHSG1vohbg6aIkUs0bzHTdpNT_DOsWhXa4srnkck7vZw5Elxnh8R1bISuF14CqU0Ok.tYuycjk0Ko4YmOcfC0PWPqyoo2UJzGRt1bP2yOYGd38N.WSbfEJxFvN_BVWNLbq1pxVaEHPHjd.sddL9DWAw6va508rf4XenTJ1554EQ3FeRVjyraQlzmyT2GEl.lIunexw_M11ZgY2mXpIs3sEQ4FAMj5HEkBwhje0TrBHDn2IJygC1hXj.G5xC7drWSM9e0oSRp6gl2kFnExomP.Y0FyJcVY2aZTWOnYmJ5mVj7RpP0_8qtduQBo5l6TedZkiHOcDgradY8yfs4CmYos8OejWJfcqIihAOtRsW55SOCxDd3SCeboT4b6juj57c6xzF6MoA5J2K.ANVVNe6t5Isuyr0y4ByrkEevc6IOr6X3HLscPoKEdbRGG.ZaOXjLLqOMO8qFsVU1J5STxWfX3yzy87hDODYlMmcwRjLpwHqNZWSspEdnctmkOSzQ6sj4U7ss0S9BWeTxsH.xMxloAS0pxY9M26RtlXc2wTHNrvdM_5ijhnywARnhv8YNaMJwy_7XhgtwmGPynTBbLNf_HzopEXRJIZDnFMKiRbBT5lOapuwSIA--~A; path=/; domain=login.yahoo.com; secure; HttpOnly
+X-Content-Type-Options: nosniff
+Referrer-Policy: origin-when-cross-origin
+Pragma: no-cache
+Cache-Control: nocache, no-store, must-revalidate
+Content-Type: text/html; charset=utf-8
+Content-Security-Policy-Report-Only: child-src 'self' https://login.yahoo.net https://s.yimg.com https://s1.yimg.com;connect-src 'self' https://geo.yahoo.com https://pr.comet.yahoo.com https://ws.progrss.yahoo.com https://udc.yahoo.com;default-src 'self' https://s.yimg.com https://s1.yimg.com https://login.yahoo.net;font-src https://s.yimg.com https://s1.yimg.com;frame-src 'self' https://login.yahoo.net https://s.yimg.com https://s1.yimg.com;img-src 'self' data: https://yahoo.com https://ct.yimg.com https://s.yimg.com https://s1.yimg.com https://tw.yimg.com https://geo.yahoo.com https://socialprofiles.zenfs.com https://*.wc.yahoodns.net https://beap-bc.yahoo.com https://ws.progrss.yahoo.com https://log.fc.yahoo.com https://backyard.yahoo.com https://*.ah.yahoo.com https://pr-bh.ybp.yahoo.com https://fbcdn.net https://scontent.xx.fbcdn.net https://z-m-scontent.xx.fbcdn.net https://graph.facebook.com https://data.mail.yahoo.com https://sb.scorecardresearch.com;media-src https://*.ah.yahoo.com;report-uri https://csp.yahoo.com/beacon/csp?src=mbr_account;script-src 'self' 'unsafe-eval' https://s.yimg.com https://s1.yimg.com https://query.yahoo.com https://*.query.yahoo.com https://y.analytics.yahoo.com https://jsapi.login.yahoo.com https://fc.yahoo.com https://pr.comet.yahoo.com 'nonce-aoHXNKbYTYAOx3AgvnMIXpcu7M/lZVtzzVOCkeNfcJTgsJtR' ;style-src * 'unsafe-inline'
+Date: Sun, 28 Jul 2019 05:02:17 GMT
+Retry-Count: 0
+X-Xss-Protection: 1; mode=block
+Age: 0
+Strict-Transport-Security: max-age=15552000

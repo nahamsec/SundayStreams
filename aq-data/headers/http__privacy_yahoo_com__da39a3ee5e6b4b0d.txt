@@ -1,0 +1,18 @@
+200 OK
+Age: 0
+Server: ATS
+X-Frame-Options: DENY
+Pragma: cache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+Date: Sun, 21 Jul 2019 18:34:57 GMT
+Cache-Control: max-age=300, public
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer-when-downgrade
+Retry-Count: 0
+Strict-Transport-Security: max-age=15552000
+X-Content-Type-Options: nosniff
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Set-Cookie: BX=9rnnbshej9c2h&b=3&s=tc; expires=Mon, 20-Jul-2020 18:34:57 GMT; path=/; domain=.oath.com PoliciesOathCom=367b96e018635c3e71006d8a0a69c719; path=/

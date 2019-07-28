@@ -1,0 +1,16 @@
+200 OK
+Vary: Accept-Encoding
+Via: http/1.1 media-router-omega72.prod.media.gq1.yahoo.com (ApacheTrafficServer [cMsSf ])
+Server: ATS
+Content-Type: text/html; charset=utf-8
+Etag: "1570334036"
+Set-Cookie: ydn-oidc=s%3AGPlVklKXouDsfo7b6kX2jiy7p6WO-YAn.fEhAeDy6wvsg1xLIk4l5s6R1h3mDOmUWYLbblDsSRwc; Path=/; Expires=Sun, 28 Jul 2019 18:25:10 GMT; HttpOnly B=ajkkh91ejrq0d&b=3&s=re; expires=Mon, 27-Jul-2020 18:23:10 GMT; path=/; domain=.yahoo.com
+Date: Sun, 28 Jul 2019 18:23:10 GMT
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Retry-Count: 0
+X-Content-Type-Options: nosniff
+X-Powered-By: Express
+Cache-Control: private, max-age=0, no-cache
+Age: 1
+Referrer-Policy: no-referrer-when-downgrade

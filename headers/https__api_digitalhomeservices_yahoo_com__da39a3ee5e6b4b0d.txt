@@ -1,0 +1,14 @@
+404 Not Found
+Date: Sun, 28 Jul 2019 05:00:08 GMT
+Referrer-Policy: no-referrer-when-downgrade
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/plain
+Set-Cookie: B=1k0savdejqauo&b=3&s=vm; expires=Mon, 27-Jul-2020 05:00:08 GMT; path=/; domain=.yahoo.com B=cj8e4itejqauo&b=3&s=nh; expires=Mon, 27-Jul-2020 05:00:08 GMT; path=/; domain=.yahoo.com
+Retry-Count: 0
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=15552000
+X-Powered-By: Express
+Age: 0

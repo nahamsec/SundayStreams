@@ -1,0 +1,19 @@
+200 OK
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: autorf=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=tw.yahoo.com
+Expires: -1
+Strict-Transport-Security: max-age=31536000
+X-Xss-Protection: 1
+Content-Type: text/html; charset=UTF-8
+Content-Security-Policy: sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=frontpage&region=TW&lang=zh-Hant-TW&device=desktop&yrid=6ina7rpej9c2b&partner=;
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Accept-Ch: device-memory, dpr, width, viewport-width, rtt, downlink, ect
+Accept-Ch-Lifetime: 604800
+Server: ATS
+Date: Sun, 21 Jul 2019 18:34:51 GMT
+Cache-Control: no-store, no-cache, max-age=0, private
+Retry-Count: 0
+X-Content-Type-Options: NOSNIFF
+Age: 0
+Referrer-Policy: no-referrer-when-downgrade
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"

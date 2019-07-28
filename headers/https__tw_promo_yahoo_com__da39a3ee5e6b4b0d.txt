@@ -1,0 +1,14 @@
+404 Not Found
+Strict-Transport-Security: max-age=31536000
+X-Xss-Protection: 1; mode=block
+Retry-Count: 0
+Date: Sun, 28 Jul 2019 04:59:14 GMT
+Content-Length: 3283
+Content-Type: text/html; charset=iso-8859-1
+Age: 0
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Frame-Options: DENY
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff

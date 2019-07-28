@@ -1,0 +1,15 @@
+404 Not Found
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+Cache-Control: no-store
+Content-Language: en
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+Content-Length: 35
+Set-Cookie: B=11mu18dejqaus&b=3&s=7d; expires=Mon, 27-Jul-2020 05:00:12 GMT; path=/; domain=.yahoo.com
+X-Xss-Protection: 1; mode=block
+Date: Sun, 28 Jul 2019 05:00:12 GMT
+Server: ATS
+Content-Type: text/html

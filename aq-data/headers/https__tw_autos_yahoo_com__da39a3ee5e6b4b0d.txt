@@ -1,0 +1,16 @@
+200 OK
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Referrer-Policy: no-referrer-when-downgrade
+Set-Cookie: XSRF-TOKEN=eyJpdiI6ImI2M0NuWjNNTFY2aTV4WmllSVhhOGc9PSIsInZhbHVlIjoiRk5FUW12TkNPVEI0WkxJU3NmbWd2amJwR0xJNUpXdDd0VXp6emFpdEJcL1ViZ0I5b0hQQmJ5RXpOaW8rc1FcLzVJIiwibWFjIjoiMzc3NWE2MDVlNWVjOTFmY2IyNGFhZGQ4YjZjNjBkNzkzMzA4NGQ0ZmU2NWYwZDA3NjQyNTFhNzQ0Yjc5ZmNmNCJ9; expires=Sun, 21-Jul-2019 20:34:51 GMT; Max-Age=7200; path=/; secure laravel_session=eyJpdiI6Inl5VlVpaDVOR0hEUjVvb0JTT3ZnTVE9PSIsInZhbHVlIjoiVEhUZHdSa2hLZmpxY3JYbzBsUFVJRW5GMnBNWlRsbWtSSENiUmJKQ21iZGRvVHMydE9PSnpmb0xTVTRcL0hCWlMiLCJtYWMiOiJkYzhkNGY3N2M1NzZkNDA1YzJiOWJkZGMxY2JlNWU3YzkzMGFjMDdhNjJhYmQ5Y2EyZGVhYWM4NTAzMWUwN2UyIn0%3D; expires=Sun, 21-Jul-2019 20:34:51 GMT; Max-Age=7200; path=/; secure; httponly bv=eyJpdiI6IlQ5NkF1ang3cVJBeThNWTBQblRycWc9PSIsInZhbHVlIjoiMHJXMnVEenEwVVhLaklrOEVWWERDZz09IiwibWFjIjoiY2Y2OTBmNmVmM2I2ZGNiN2IxYmJiMGQyNjcxOWQzNGQxMzMxOThjZWM3MzI1NGE1MmQyMjFhMTNlZGExZjA2MCJ9; expires=Mon, 22-Jul-2019 18:34:51 GMT; Max-Age=86400; path=/; httponly
+Vary: Accept-Encoding
+Cache-Control: no-cache, private
+Strict-Transport-Security: max-age=31536000
+X-Cache-Status: MISS
+X-Xss-Protection: 1; mode=block
+Server: ATS
+X-Content-Type-Options: nosniff
+Content-Security-Policy: frame-ancestors https://*.yahoo.com https://*.yahoo.net https://*.yahoo.com.tw https://*.yahoo.com.hk https://*.yahoodns.net https://*.tumblr.com https://tw.discount.yahoo.net;
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Retry-Count: 0
+Date: Sun, 21 Jul 2019 18:34:51 GMT

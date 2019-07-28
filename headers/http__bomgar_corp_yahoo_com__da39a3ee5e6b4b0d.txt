@@ -1,0 +1,11 @@
+200 OK
+Server: Bomgar
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-cache
+Strict-Transport-Security: max-age=31536000
+X-Ua-Compatible: IE=edge
+Content-Type: text/html; charset=utf-8
+Date: Sun, 28 Jul 2019 04:59:45 GMT
+Pragma: no-cache
+Vary: Accept-Encoding
+Retry-Count: 0

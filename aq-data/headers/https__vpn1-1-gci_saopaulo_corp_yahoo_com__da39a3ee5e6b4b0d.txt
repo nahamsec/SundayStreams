@@ -1,0 +1,9 @@
+200 OK
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: webvpn=; expires=Thu, 01 Jan 1970 22:00:00 GMT; path=/; secure webvpnc=; expires=Thu, 01 Jan 1970 22:00:00 GMT; path=/; secure webvpn_portal=; expires=Thu, 01 Jan 1970 22:00:00 GMT; path=/; secure webvpnSharePoint=; expires=Thu, 01 Jan 1970 22:00:00 GMT; path=/; secure webvpnlogin=1; path=/; secure
+Retry-Count: 0
+Content-Type: text/html; charset=utf-8
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: Keep-Alive
+Date: Sun, 21 Jul 2019 18:24:57 GMT

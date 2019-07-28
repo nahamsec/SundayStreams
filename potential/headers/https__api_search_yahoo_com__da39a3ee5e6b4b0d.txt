@@ -1,0 +1,18 @@
+200 OK
+Content-Type: text/html; charset=UTF-8
+Public-Key-Pins-Report-Only: includeSubDomains; max-age=2592000; report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-hpkp-report-only"; pin-sha256="2fRAUXyxl4A1/XHrKNBmc8bTkzA7y4FB/GLJuNAzCqY="; pin-sha256="dolnbtzEBnELx/9lOEQ22e6OZO/QNb6VSSX2XHA3E7A="; pin-sha256="i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY="; pin-sha256="I/Lt/z7ekCWanjD0Cvj5EqXls2lOaThEA0H2Bg4BT/o="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="uUwZgwDOxcBXrQcntwu+kYFpkiVkOaezL0WYEZ3anJc="; pin-sha256="Wd8xe/qfTwq3ylFNd3IpaqLHZbh2ZNCLluVzmeNkcpw="; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="
+X-Xss-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+Date: Sun, 28 Jul 2019 18:22:26 GMT
+Image_inliner_enable: false
+Cache-Control: private
+Age: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Set-Cookie: B=7hcc2p9ejrpv2&b=3&s=9a; expires=Mon, 27-Jul-2020 18:22:26 GMT; path=/; domain=.yahoo.com; secure
+Retry-Count: 0
+Image_inliner_base64: false
+Referrer-Policy: no-referrer-when-downgrade
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+Server: ATS

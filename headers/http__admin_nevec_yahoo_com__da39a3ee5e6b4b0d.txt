@@ -1,0 +1,25 @@
+200 OK
+X-Xss-Protection: 1; mode=block; report=https://okta.report-uri.com/r/d/xss/enforce
+P3p: CP="HONK"
+Content-Security-Policy-Report-Only: default-src 'self' ok4static.oktacdn.com oath.okta.com; connect-src 'self' ok4static.oktacdn.com *.mixpanel.com *.mapbox.com *.pendo.io; script-src 'unsafe-inline' 'unsafe-eval' 'self' ok4static.oktacdn.com; style-src 'unsafe-inline' 'self' ok4static.oktacdn.com; frame-src 'self' login.okta.com; img-src 'self' ok4static.oktacdn.com oath.okta.com *.mapbox.com *.pendo.io; frame-ancestors 'self'; report-uri https://okta.report-uri.com/r/d/csp/reportOnly; report-to csp-report
+X-Ua-Compatible: IE=edge
+Content-Type: text/html;charset=utf-8
+X-Okta-Request-Id: XT0sQ@COSY3Kvkn5dwGi@AAACbU
+Report-To: {"group":"csp-report","max_age":31536000,"endpoints":[{"url":"https://okta.report-uri.com/r/d/csp/reportOnly"}],"include_subdomains":true}
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Expires: 0
+X-Robots-Tag: none
+X-Rate-Limit-Reset: 1564290125
+Set-Cookie: ADRUM_BTa=R; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/ ADRUM_BT1=R; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/ ADRUM_BTa="R:402|g:a6fe3c49-4d9d-48d5-b268-95ced3820329"; Version=1; Max-Age=30; Expires=Sun, 28-Jul-2019 05:02:25 GMT; Path=/ ADRUM_BTa="R:402|g:a6fe3c49-4d9d-48d5-b268-95ced3820329|n:Okta_6d5b1e30-d05a-4894-a37b-81b5f6c60e0e"; Version=1; Max-Age=30; Expires=Sun, 28-Jul-2019 05:02:25 GMT; Path=/ ADRUM_BT1="R:402|i:12171"; Version=1; Max-Age=30; Expires=Sun, 28-Jul-2019 05:02:25 GMT; Path=/ ADRUM_BT1="R:402|i:12171|e:49"; Version=1; Max-Age=30; Expires=Sun, 28-Jul-2019 05:02:25 GMT; Path=/ sid=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/ JSESSIONID=DA2444D5D3521A19CF7C8709BDBB3549; Path=/; Secure; HttpOnly t=slate; Path=/ sid=""; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Server: nginx
+X-Rate-Limit-Remaining: 817
+Vary: Accept-Encoding
+Date: Sun, 28 Jul 2019 05:01:55 GMT
+Public-Key-Pins-Report-Only: pin-sha256="r5EfzZxQVvQpKo3AgYRaT7X2bDO/kj3ACwmxfdT2zt8="; pin-sha256="MaqlcUgk2mvY/RFSGeSwBRkI+rZ6/dxe/DuQfBT/vnQ="; pin-sha256="72G5IEvDEWn+EThf3qjR7/bQSWaS2ZSLqolhnO6iyJI="; pin-sha256="rrV6CLCCvqnk89gWibYT0JO6fNQ8cCit7GGoiVTjCOg="; max-age=60; report-uri="https://okta.report-uri.io/r/default/hpkp/reportOnly"
+X-Content-Type-Options: nosniff
+Content-Language: en
+Strict-Transport-Security: max-age=315360000
+X-Rate-Limit-Limit: 850
+Retry-Count: 0
+X-Frame-Options: SAMEORIGIN

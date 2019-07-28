@@ -1,0 +1,17 @@
+200 OK
+Pragma: cache
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+Date: Sun, 21 Jul 2019 18:32:31 GMT
+Retry-Count: 0
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=15552000
+X-Content-Type-Options: nosniff
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+X-Frame-Options: DENY
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: max-age=300, public
+Age: 146
+Vary: Accept-Encoding

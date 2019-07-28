@@ -1,0 +1,15 @@
+403 Forbidden
+X-Content-Type-Options: nosniff
+Date: Sun, 21 Jul 2019 18:34:50 GMT
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Strict-Transport-Security: max-age=31536000
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Server: ATS
+Alt-Svc: clear clear
+Age: 0
+Retry-Count: 0
+Via: 1.1 google, 1.1 google, https/1.1 c102.livehouse.media.tp2.yahoo.com (ApacheTrafficServer [cMsSf ]), https/1.1 r202.livehouse.media.tp2.yahoo.com (ApacheTrafficServer [cMsSf ])
+X-Frame-Options: DENY
+Content-Type: text/html
+Content-Length: 564

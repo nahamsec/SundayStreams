@@ -1,0 +1,15 @@
+200 OK
+Cache-Control: max-age=3600, private
+Server: ATS
+X-Frame-Options: DENY
+Set-Cookie: B=01p9f49ejrq0d&b=3&s=iq; expires=Mon, 27-Jul-2020 18:23:09 GMT; path=/; domain=.yahoo.com; secure
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Content-Security-Policy: sandbox; default-src 'self'; script-src 'none'; object-src 'none'; report-uri https://csp.yahoo.com/beacon/csp?src=generic
+Retry-Count: 0
+Date: Sun, 28 Jul 2019 18:23:09 GMT
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin

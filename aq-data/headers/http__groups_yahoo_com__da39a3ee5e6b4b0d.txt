@@ -1,0 +1,20 @@
+200 OK
+Access-Control-Allow-Origin: *.yahoo.com
+Content-Type: text/html; charset=UTF-8
+Server: ATS
+Date: Sun, 21 Jul 2019 18:34:45 GMT
+Cache-Control: no-cache, no-store, must-revalidate, private
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Set-Cookie: B=96bverlej9c25&b=3&s=n1; expires=Mon, 20-Jul-2020 18:34:45 GMT; path=/; domain=.yahoo.com; secure
+Pragma: no-cache
+Retry-Count: 0
+Vary: Y-Path,Accept-Encoding
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Age: 1
+Referrer-Policy: no-referrer-when-downgrade
+Expires: Fri, 01 Jan 1999 00:00:00 GMT
+Strict-Transport-Security: max-age=15552000
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block

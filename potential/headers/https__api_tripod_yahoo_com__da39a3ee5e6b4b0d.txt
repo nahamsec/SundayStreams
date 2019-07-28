@@ -1,0 +1,16 @@
+401 Unauthorized
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+Pragma: no-cache no-cache
+Expires: 0
+X-Frame-Options: DENY
+Server: ATS
+Www-Authenticate: Bearer realm="oauth2-resource", error="unauthorized", error_description="Full authentication is required to access this resource"
+Age: 0
+Date: Sun, 28 Jul 2019 18:22:26 GMT
+Referrer-Policy: strict-origin-when-cross-origin
+Retry-Count: 0
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate no-store
+Strict-Transport-Security: max-age=15552000
+Content-Type: application/xml;charset=UTF-8
+X-Content-Type-Options: nosniff

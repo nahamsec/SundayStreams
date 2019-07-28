@@ -1,0 +1,19 @@
+200 OK
+X-Frame-Options: SAMEORIGIN
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Retry-Count: 0
+X-Xss-Protection: 1; mode=block
+X-Dns-Prefetch-Control: off
+Content-Security-Policy: frame-ancestors 'self' *.myshopify.com
+Content-Type: text/html; charset=utf-8
+Date: Sun, 28 Jul 2019 04:58:58 GMT
+Server: ATS
+X-Powered-By: Next.js
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=15552000
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+Set-Cookie: _csrf=voGdAqO6h8uKOYcbelOWWj6a; Path=/ asset_prefix=; Path=/
+Etag: "1093-9KAzsQktzZUE0pLaJgfzz9Z9tTU"
+Age: 0
+Referrer-Policy: no-referrer-when-downgrade

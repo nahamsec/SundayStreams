@@ -1,0 +1,17 @@
+200 OK
+Cache-Control: max-age=86400,public
+Strict-Transport-Security: max-age=15552000
+Referrer-Policy: no-referrer-when-downgrade
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+Date: Sun, 28 Jul 2019 12:19:20 GMT
+Content-Type: text/html
+Last-Modified: Wed, 13 Feb 2019 21:48:46 GMT
+Etag: "5c6490be-29820"
+X-Content-Type-Options: nosniff
+Content-Length: 170016
+Accept-Ranges: bytes
+X-Frame-Options: SAMEORIGIN
+Age: 21829
+Retry-Count: 0
+Server: ATS

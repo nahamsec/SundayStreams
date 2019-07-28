@@ -1,0 +1,14 @@
+502 Cannot find server.
+Content-Language: en
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Length: 391
+Date: Sun, 28 Jul 2019 05:01:58 GMT
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Referrer-Policy: strict-origin-when-cross-origin
+Retry-Count: 0
+Via: http/1.1 kubenode2.canary1.ensemble.bf1.yahoo.com (ApacheTrafficServer [c s f ])

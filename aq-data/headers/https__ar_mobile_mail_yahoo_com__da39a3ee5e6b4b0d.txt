@@ -1,0 +1,10 @@
+403 Forbidden
+Retry-Count: 0
+X-Cache: Error from cloudfront
+X-Amz-Cf-Pop: SFO9
+X-Amz-Cf-Id: a_5mKnvOlOpSXF7er2_1VpDPHOjx0trhRoqdNyYi7M-tBivIXSXy9g==
+Content-Type: application/xml
+X-Amz-Bucket-Region: us-west-1
+Date: Sun, 21 Jul 2019 18:34:43 GMT
+Server: AmazonS3
+Via: 1.1 d897b81191cbfd68a1b6fc44f98c52b0.cloudfront.net (CloudFront)

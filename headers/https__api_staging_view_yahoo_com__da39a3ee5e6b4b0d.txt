@@ -1,0 +1,14 @@
+404 Not Found on Accelerator
+Content-Length: 6005
+Set-Cookie: B=6mdhrj9ejqaur&b=3&s=s1; expires=Mon, 27-Jul-2020 05:00:11 GMT; path=/; domain=.yahoo.com
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Frame-Options: SAMEORIGIN
+Retry-Count: 0
+Date: Sun, 28 Jul 2019 05:00:11 GMT
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en

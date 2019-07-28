@@ -1,0 +1,21 @@
+200 OK
+X-Rid: 27a37fd80837d417cafb0fefc74357ac
+X-Tumblr-Pixel: 3
+Accept-Ranges: bytes
+Retry-Count: 0
+Content-Type: text/html; charset=UTF-8
+X-Tumblr-Pixel-0: https://px.srvcs.tumblr.com/impixu?T=1563734087&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2NoYXJpdHkteWFob29oay50dW1ibHIuY29tLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiLyJ9&U=OOKDNHCIHC&K=ee2b50179803974191a1f54172f4cafd883f695d21b80acb26e0ad0c4b985f47--https://px.srvcs.tumblr.com/impixu?T=1563734087&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9jaGFyaXR5LXlhaG9vaGsudHVtYmxyLmNvbS8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii8iLCJwb3N0cyI6W3sicG9zdGlkIjoiMTU2NjYzNDc3MDA4IiwiYmxvZ2lkIjoiMjQyMzk2NTg4Iiwic291cmNlIjozM30s
+X-Tumblr-Pixel-2: E0MTMzMzE3MDgiLCJibG9naWQiOiIyNDIzOTY1ODgiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE0MTAwNzk1NTEzMyIsImJsb2dpZCI6IjI0MjM5NjU4OCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTQwNzc2OTMwNDA4IiwiYmxvZ2lkIjoiMjQyMzk2NTg4Iiwic291cmNlIjozM31dfQ==&U=PJDIAKDMGA&K=6b7dd5df24a96bb27fc88165c75c3c6f2ebf9c2e1a0603637dfdd7c7baddfe5e
+Link: <https://assets.tumblr.com/images/default_avatar/pyramid_open_128.png>; rel=icon
+X-Ua-Compatible: IE=Edge,chrome=1
+Date: Sun, 21 Jul 2019 18:34:47 GMT
+Vary: Accept-Encoding X-UA-Device, Accept, Accept-Encoding
+P3p: CP="Tumblr's privacy policy is available here: https://www.tumblr.com/policy/en/privacy"
+Strict-Transport-Security: max-age=15552001
+X-Tumblr-Pixel-1: eyJwb3N0aWQiOiIxNTQ2NjU3NjM2MzMiLCJibG9naWQiOiIyNDIzOTY1ODgiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE1NDM2ODg4NTM3OCIsImJsb2dpZCI6IjI0MjM5NjU4OCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTUxNjQzNjQwMDk4IiwiYmxvZ2lkIjoiMjQyMzk2NTg4Iiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNTA3NTUxMDg0NjgiLCJibG9naWQiOiIyNDIzOTY1ODgiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE0OTAyNDcyNDg2OCIsImJsb2dpZCI6IjI0MjM5NjU4OCIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTQ1MjM4MzA0NzMzIiwiYmxvZ2lkIjoiMjQyMzk2NTg4Iiwic291cmNlIjozM30seyJwb3N0aWQiOiIxND
+Set-Cookie: pfg=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.tumblr.com; secure; HttpOnly tmgioct=5d34b047d8fea80781479160; expires=Wed, 18-Jul-2029 18:34:47 GMT; Max-Age=315360000; path=/; domain=.tumblr.com; HttpOnly
+Server: openresty
+X-Content-Type-Options: nosniff
+X-Tumblr-User: charity-yahoohk
+X-Ua-Device: desktop
+X-Xss-Protection: 1; mode=block

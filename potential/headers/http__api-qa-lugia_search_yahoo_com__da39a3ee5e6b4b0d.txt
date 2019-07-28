@@ -1,0 +1,13 @@
+502 Cannot find server.
+Via: http/1.1 media-router-omega2.canary.media.tp2.yahoo.com (ApacheTrafficServer [cMs f ])
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Date: Sun, 28 Jul 2019 18:22:47 GMT
+Retry-Count: 0
+Server: ATS
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Content-Length: 3038

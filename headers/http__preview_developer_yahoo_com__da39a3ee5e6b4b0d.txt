@@ -1,0 +1,16 @@
+200 OK
+Server: ATS
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Retry-Count: 0
+X-Content-Type-Options: nosniff
+Etag: "706548906"
+Date: Sun, 28 Jul 2019 05:02:08 GMT
+Age: 1
+Referrer-Policy: no-referrer-when-downgrade
+Cache-Control: private, max-age=0, no-cache
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Via: http/1.1 media-router-omega105.prod.media.gq1.yahoo.com (ApacheTrafficServer [cMsSf ])
+X-Powered-By: Express
+Set-Cookie: ydn-oidc=s%3A4pp32Drg__G1vGoGUvddAjGAr_VELK4t.ztnKPHcUleUDuKXJNhPr0DngMMHJVGm1iwBeuHS7OZg; Path=/; Expires=Sun, 28 Jul 2019 05:04:08 GMT; HttpOnly B=5god7ulejqb2f&b=3&s=gg; expires=Mon, 27-Jul-2020 05:02:08 GMT; path=/; domain=.yahoo.com

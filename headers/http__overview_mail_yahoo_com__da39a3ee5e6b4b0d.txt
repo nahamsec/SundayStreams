@@ -1,0 +1,15 @@
+200 OK
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=15552000
+X-Xss-Protection: 1; mode=block
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Etag: W/"e42-N43nGFRlP7kEs75qiwQYat9v3eY"
+Server: ATS
+Retry-Count: 0
+Age: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: B=3tsm8slejqart&b=3&s=pc; expires=Mon, 27-Jul-2020 04:58:37 GMT; path=/; domain=.yahoo.com
+Date: Sun, 28 Jul 2019 04:58:37 GMT

@@ -1,0 +1,19 @@
+200 OK
+Vary: Accept-Encoding
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: DENY
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Y-Origin: sh202.ac.tp2.yahoo.com
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Age: 0
+Strict-Transport-Security: max-age=31536000
+Server: ATS
+X-Content-Type-Options: nosniff
+Set-Cookie: B=e6snsglejqati&b=3&s=8l; expires=Mon, 27-Jul-2020 04:59:30 GMT; path=/; domain=.yahoo.com
+Cache-Control: no-store, no-cache, must-revalidate, private post-check=0, pre-check=0, private
+Pragma: no-cache
+X-Xss-Protection: 1; mode=block
+Date: Sun, 28 Jul 2019 04:59:30 GMT
+Expires: Thu, 01 Jan 1970 12:34:56 GMT
+Retry-Count: 0

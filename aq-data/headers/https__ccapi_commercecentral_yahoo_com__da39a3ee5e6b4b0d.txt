@@ -1,0 +1,16 @@
+200 OK
+Status: 200 OK
+Strict-Transport-Security: max-age=31536000; includeSubDomains; max-age=10886400; includeSubDomains; preload
+X-Content-Security-Policy: frame-ancestors http://*.yahoosmallbusiness.com
+X-Request-Id: 0b7e8d0c8c5ce22a441d3e53cb9d3bef
+X-Runtime: 0.047994
+Content-Type: text/html; charset=utf-8
+Date: Sun, 21 Jul 2019 18:34:47 GMT
+P3p: CP="NOI DEV PSA PSD IVA PVD OTP OUR OTR IND OTC"
+X-Ua-Compatible: IE=Edge,chrome=1
+Set-Cookie: first_referer=https%3A%2F%2Fccapi.commercecentral.yahoo.com; path=/ _rockstar_session=4565e8bcb002822be8ab7878a70aacf6; path=/; expires=Sun, 11-Aug-2019 18:34:47 GMT; secure; HttpOnly
+X-Rack-Cache: miss
+Retry-Count: 0
+Cache-Control: max-age=0, private, must-revalidate
+Content-Security-Policy: frame-ancestors http://*.yahoosmallbusiness.com
+Etag: "c6ddee523178b58f57585d837a150641"

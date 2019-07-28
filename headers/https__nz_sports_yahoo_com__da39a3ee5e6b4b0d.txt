@@ -1,0 +1,17 @@
+200 OK
+Content-Security-Policy: sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=news&region=NZ&lang=en-NZ&device=desktop&yrid=d2r93ltejqarg&partner=;
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; report="https://csp.yahoo.com/beacon/csp?src=fp-hpkp-nz-news"
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+P3p: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Server: ATS
+Expires: -1
+Retry-Count: 0
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Date: Sun, 28 Jul 2019 04:58:24 GMT
+Strict-Transport-Security: max-age=31536000
+Set-Cookie: B=08hdhhdejqarg&b=3&s=41; expires=Mon, 27-Jul-2020 04:58:24 GMT; path=/; domain=.yahoo.com
+Age: 0
+Cache-Control: max-age=0, private

@@ -1,0 +1,16 @@
+500 Internal Server Error
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Cache-Control: private
+Strict-Transport-Security: max-age=31536000
+Date: Sun, 28 Jul 2019 05:01:00 GMT
+Age: 0
+Retry-Count: 0
+X-Frame-Options: DENY
+Set-Cookie: B=6df06h9ejqb0c&b=3&s=hn; expires=Mon, 27-Jul-2020 05:01:00 GMT; path=/; domain=.yahoo.com; secure
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Length: 0
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block

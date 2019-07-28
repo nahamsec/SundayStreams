@@ -1,0 +1,15 @@
+200 OK
+Age: 2
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block; report=https://csp.search.yahoo.com/xssreport
+Content-Type: text/html; charset=UTF-8
+Server: ATS
+Date: Sun, 21 Jul 2019 18:34:46 GMT
+Set-Cookie: B=2l310n9ej9c26&b=3&s=l3; expires=Mon, 20-Jul-2020 18:34:46 GMT; path=/; domain=.yahoo.com; secure
+Image_inliner_enable: false
+Image_inliner_base64: false
+Cache-Control: private
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Vary: Accept-Encoding
+Referrer-Policy: no-referrer-when-downgrade
+Retry-Count: 0

@@ -1,0 +1,13 @@
+403 Forbidden
+Content-Type: text/html; charset=iso-8859-1
+Age: 0
+Via: http/1.1 media-router-omega73.prod.media.bf1.yahoo.com (ApacheTrafficServer [cMsSf ])
+Server: ATS
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Date: Sun, 28 Jul 2019 18:23:02 GMT
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Content-Length: 3181
+Retry-Count: 0

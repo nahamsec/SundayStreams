@@ -1,0 +1,15 @@
+404 Not Found on Accelerator
+Strict-Transport-Security: max-age=31536000
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+X-Content-Type-Options: nosniff
+Content-Security-Policy: frame-ancestors https://*.yahoo.com https://*.yahoo.net https://*.yahoo.com.tw https://*.yahoo.com.hk https://*.yahoodns.net https://*.tumblr.com https://tw.discount.yahoo.net;
+Age: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Date: Sun, 28 Jul 2019 17:28:13 GMT
+X-Xss-Protection: 1; mode=block
+Retry-Count: 0
+Content-Language: en
+Content-Length: 297
+Referrer-Policy: no-referrer-when-downgrade

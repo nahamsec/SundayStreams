@@ -1,0 +1,16 @@
+200 OK
+Cache-Control: private
+Strict-Transport-Security: max-age=31536000
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Content-Type-Options: nosniff
+Date: Sun, 28 Jul 2019 05:00:31 GMT
+Set-Cookie: subscribe_message=d=AuhMfLO3TJskozQ5sZz9Gaq5DBKGDnx2S19ZKhN4mw8JNl8xY4fS7TSbbSgujHi6E9fxgHOmOhRG&v=1; expires=Mon, 27-Jul-2020 05:00:32 GMT; Max-Age=31536000; path=/; domain=deals.yahoo.com; httponly
+Age: 2
+Retry-Count: 0
+P3p: policyref="https://policies.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Vary: Accept-Encoding
+X-Frame-Options: DENY
+Content-Type: text/html; charset=utf-8
+Server: ATS
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin

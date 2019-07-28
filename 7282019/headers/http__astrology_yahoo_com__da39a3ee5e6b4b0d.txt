@@ -1,0 +1,16 @@
+200 OK
+X-Frame-Options: ALLOW-FROM https://www.yahoo.com/style/horoscope/
+X-Content-Type-Options: nosniff
+Date: Sun, 28 Jul 2019 17:27:37 GMT
+Strict-Transport-Security: max-age=31536000
+X-Xss-Protection: 1; report="https://csp.yahoo.com/beacon/csp?src=fp-hpkp-www"
+Cache-Control: no-store, no-cache, max-age=0, private
+Expires: -1
+Content-Security-Policy: sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=lifestyle&region=US&lang=en-US&device=desktop&yrid=3e2avahejrmo9&partner=;
+Age: 0
+Referrer-Policy: no-referrer-when-downgrade
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Content-Type: text/html; charset=utf-8
+Server: ATS
+Content-Security-Policy-Report-Only: style-src https://*.btrll.com https://*.oath.com https://*.yimg.com https://*.yahoo.com 'self' 'unsafe-inline' data: blob:; script-src https://*.btrll.com https://*.oath.com https://*.yahoo.com https://*.yimg.com 'self' 'unsafe-inline' 'unsafe-eval' https://platform.twitter.com https://*.btrll.com data: blob:; frame-ancestors https://*.techcrunch.com https://*.huffingtonpost.com https://*.aol.com https://*.yahoo.com; sandbox allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation; report-uri https://csp.yahoo.com/beacon/csp?src=ats&site=lifestyle&region=US&lang=en-US&device=desktop&yrid=3e2avahejrmo9&partner=;
+Retry-Count: 0

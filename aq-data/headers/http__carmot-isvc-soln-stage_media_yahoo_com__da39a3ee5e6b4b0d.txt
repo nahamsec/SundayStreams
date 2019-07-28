@@ -1,0 +1,13 @@
+502 Cannot find server.
+Date: Sun, 21 Jul 2019 18:34:54 GMT
+Via: http/1.1 media-router-omega2.canary.media.ne1.yahoo.com (ApacheTrafficServer [cMs f ])
+Server: ATS
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: no-referrer-when-downgrade
+Retry-Count: 0
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+X-Frame-Options: SAMEORIGIN
+Content-Length: 3047

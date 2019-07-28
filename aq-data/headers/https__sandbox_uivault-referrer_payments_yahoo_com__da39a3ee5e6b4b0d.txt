@@ -1,0 +1,16 @@
+200 OK
+Date: Sun, 21 Jul 2019 18:34:55 GMT
+Server: ATS
+X-Content-Type-Options: nosniff
+Set-Cookie: B=252uhhtej9c2f&b=3&s=c6; expires=Mon, 20-Jul-2020 18:34:55 GMT; path=/; domain=.yahoo.com
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Security-Policy: script-src 'self' 'unsafe-inline'; style-src 'self' https://s.yimg.com/pn/yp/; img-src 'self' https://s.yimg.com/pn/yp/; frame-ancestors https://stagingkoala.ui.payment.yahoo.com https://*.aol.com http://*.aol.com:3000 https://*.ouroath.com https://*.yahoo.com:8002 https://*.yahoo.com http://127.0.0.1:3000 http://127.0.0.1:80 http://localhost:3000 http://localhost:80 https://sandbox.ui.payment.yahoo.com https://*.mail.gq1.yahoo.com https://dffe-stage.media.yahoo.com:4443 https://dffe-stage-k8s.media.yahoo.com:4443 https://stage-payments.mail.yahoo.com https://stage-invpay01-os.corpapps.corp.gq1.yahoo.com https://beta-invpay01-os.corpapps.corp.gq1.yahoo.com https://beta-invpay02-os.corpapps.corp.gq1.yahoo.com https://fan-stage-bf1.sports.yahoo.com https://fan2-int-trunk-bf1.sports.yahoo.com https://fan3-stage-bf1.sports.yahoo.com http://ip-10-97-17-103.obi.nva.ec2.aol.com:3000 http://sfink-bps.sb.dev.obi.aol.com:3000 https://stgmerchant.gemini.yahoo.com https://development-checkout.ec.yahoo.com https://staging-checkout.ec.yahoo.com https://canary-checkout.ec.yahoo.com https://development-checkout.paas.ec.yahoo.com:4443 https://staging-checkout.paas.ec.yahoo.com:4443 https://canary-checkout.paas.ec.yahoo.com:4443 https://stgpayment.ad.yahoo.com
+Vary: Accept-Encoding
+Age: 0
+Strict-Transport-Security: max-age=31536000
+Retry-Count: 0
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Type: text/html; charset=utf-8
+Etag: W/"698-nZyeJrgCACcH7jiApYWGx7ULWa0"

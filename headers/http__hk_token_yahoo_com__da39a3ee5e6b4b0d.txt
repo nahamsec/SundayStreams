@@ -1,0 +1,20 @@
+200 OK
+Link: <https://assets.tumblr.com/images/default_avatar/pyramid_closed_128.png>; rel=icon
+Retry-Count: 0
+Server: openresty
+Date: Sun, 28 Jul 2019 05:01:09 GMT
+X-Rid: 92c22a834b36cb6b7a411b0b2d88f3f0
+P3p: CP="Tumblr's privacy policy is available here: https://www.tumblr.com/policy/en/privacy"
+Strict-Transport-Security: max-age=15552001
+X-Tumblr-User: hkauctions
+X-Xss-Protection: 1; mode=block
+X-Tumblr-Pixel-1: Ly9oa2F1Y3Rpb25zLnR1bWJsci5jb20vcG9zdC8xNjc3MjkwNDczMTQveWFob28lRTYlOEIlOEQlRTglQjMlQTN5YWhvbyVFNyVCNiVCMiVFNyU5NCVBOCVFOSU4QyVBMi0lRTklODElOEIlRTQlQkQlOUMlRTUlODUlQUMlRTUlOTElOEEiLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii9wb3N0LzppZC86c3VtbWFyeSIsInBvc3RzIjpbeyJwb3N0aWQiOiIxNjc3MjkwNDczMTQiLCJibG9naWQiOiIzNzkwMDQ4OTYiLCJzb3VyY2UiOjMzfV19&U=GDIHOFIOMO&K=6c85ab4feac2ccc16de19be078fe1172e4dd20e1006298984d5c8a8f6825394f
+Set-Cookie: pfg=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.tumblr.com; secure; HttpOnly tmgioct=5d3d2c15a05b760312055270; expires=Wed, 25-Jul-2029 05:01:09 GMT; Max-Age=315360000; path=/; domain=.tumblr.com; HttpOnly
+X-Ua-Compatible: IE=Edge,chrome=1
+Vary: Accept-Encoding X-UA-Device, Accept, Accept-Encoding
+Accept-Ranges: bytes
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+X-Tumblr-Pixel-0: https://px.srvcs.tumblr.com/impixu?T=1564290069&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2hrYXVjdGlvbnMudHVtYmxyLmNvbS9wb3N0LzE2NzcyOTA0NzMxNC95YWhvbyVFNiU4QiU4RCVFOCVCMyVBM3lhaG9vJUU3JUI2JUIyJUU3JTk0JUE4JUU5JThDJUEyLSVFOSU4MSU4QiVFNCVCRCU5QyVFNSU4NSVBQyVFNSU5MSU4QSIsInJlcXR5cGUiOjAsInJvdXRlIjoiL3Bvc3QvOmlkLzpzdW1tYXJ5In0=&U=MDOALLEAKD&K=d47b3413b25d8d594ccc2e5eec4174a65a20a7d3d2435295d83d3b3b2997962b--https://px.srvcs.tumblr.com/impixu?T=1564290069&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6
+X-Tumblr-Pixel: 2
+X-Ua-Device: desktop

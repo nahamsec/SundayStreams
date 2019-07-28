@@ -1,0 +1,17 @@
+200 OK
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: default-src 'self'; img-src 'self' data: blob: about: https://downloads.yahoo.com https://s.yimg.com https://s1.yimg.com https://s2.yimg.com https://s3.yimg.com https://s4.yimg.com https://geo.yahoo.com; script-src 'self' blob: https://www.yahoo.com https://polyfills.yahooapis.com https://consent.cmp.oath.com https://downloads.yahoo.com https://s.yimg.com 'unsafe-inline' 'unsafe-eval'; object-src https://downloads.yahoo.com https://s.yimg.com; style-src 'self' https://downloads.yahoo.com https://s.yimg.com 'unsafe-inline'; media-src 'self' blob: https://downloads.yahoo.com https://s.yimg.com; frame-src 'self' https://s.yimg.com https://downloads.yahoo.com https://guce.oath.com https://guce.yahoo.com; worker-src 'self' blob: https://downloads.yahoo.com; manifest-src 'self' https://s.yimg.com; font-src 'self' data: https://downloads.yahoo.com https://s.yimg.com https://fonts.gstatic.com; connect-src 'self' https://s.yimg.com https://*.atlas.cdn.yimg.com https://rtr.innovid.com https://geo.yahoo.com https://guce.yahoo.com https://udc.yahoo.com https://*.advertising.com https://ad.doubleclick.net https://sp.analytics.yahoo.com https://guce.oath.com https://guce.yahoo.com https://ganon.yahoo.com; report-uri https://csp.yahoo.com/beacon/csp?src=ydownloads;
+Age: 0
+Cache-Control: no-cache, no-store
+Expires: 0
+Referrer-Policy: no-referrer-when-downgrade
+Retry-Count: 0
+Content-Type: text/html; charset=utf-8
+Pragma: no-cache
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Date: Sun, 21 Jul 2019 18:34:50 GMT
+Server: ATS
+Public-Key-Pins-Report-Only: includeSubDomains; max-age=2592000; report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-hpkp-report-only"; pin-sha256="2fRAUXyxl4A1/XHrKNBmc8bTkzA7y4FB/GLJuNAzCqY="; pin-sha256="dolnbtzEBnELx/9lOEQ22e6OZO/QNb6VSSX2XHA3E7A="; pin-sha256="i7WTqTvh0OioIruIfFR4kMPnBqrS2rdiVPl/s2uC/CY="; pin-sha256="I/Lt/z7ekCWanjD0Cvj5EqXls2lOaThEA0H2Bg4BT/o="; pin-sha256="r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E="; pin-sha256="uUwZgwDOxcBXrQcntwu+kYFpkiVkOaezL0WYEZ3anJc="; pin-sha256="Wd8xe/qfTwq3ylFNd3IpaqLHZbh2ZNCLluVzmeNkcpw="; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"

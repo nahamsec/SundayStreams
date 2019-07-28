@@ -1,0 +1,22 @@
+200 OK
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Credentials: true
+X-Dns-Prefetch-Control: off
+Accept-Ranges: bytes
+Last-Modified: Fri, 28 Jun 2019 01:12:54 GMT
+Vary: Origin, Accept-Encoding
+X-Download-Options: noopen
+Content-Security-Policy: font-src survey.admanagerplus.yahoo-inc.com choices.truste.com choices.trustarc.com 'self' data: blob:; frame-ancestors survey.admanagerplus.yahoo-inc.com choices.truste.com choices.trustarc.com 'self' jira.ouroath.com assemblr.corp.yahoo.com sjarack08.vpg.cdn.yimg.com *.cdn.yimg.com b.scorecardresearch.com; frame-src survey.admanagerplus.yahoo-inc.com choices.truste.com choices.trustarc.com 'self' jira.ouroath.com assemblr.corp.yahoo.com s.yimg.com l.yimg.com acteng.yahoo.com *.cdn.yimg.com b.scorecardresearch.com sjarack08.vpg.cdn.yimg.com; img-src survey.admanagerplus.yahoo-inc.com choices.truste.com choices.trustarc.com 'self' data: blob: yui-s.yahooapis.com s.yimg.com l.yimg.com s3.aws.com amazonaws.com s3-us-west-1.amazonaws.com assemblr.corp.yahoo.com bats.video.yahoo.com video-api.yql.yahoo.com *.cdn.yimg.com b.scorecardresearch.com sjarack08.vpg.cdn.yimg.com *.yahoo.com; media-src 'self' data: blob: yahoo.com s.yimg.com l.yimg.com assemblr.corp.yahoo.com bats.video.yahoo.com video-api.yql.yahoo.com *.cdn.yimg.com b.scorecardresearch.com sjarack08.vpg.cdn.yimg.com *.yahoo.com; script-src survey.admanagerplus.yahoo-inc.com choices.truste.com choices.trustarc.com 'unsafe-inline' 'self' 'unsafe-eval' data: blob: s.yimg.com l.yimg.com *.yahoo.com yui-s.yahooapis.com jira.ouroath.com yep.video.yahoo.com video-api.yql.yahoo.com sjarack08.vpg.cdn.yimg.com *.cdn.yimg.com b.scorecardresearch.com assemblr.corp.yahoo.com cdn.jsdelivr.net; style-src survey.admanagerplus.yahoo-inc.com choices.truste.com choices.trustarc.com 'self' 'unsafe-inline' data: blob: yui-s.yahooapis.com s.yimg.com l.yimg.com assemblr.corp.yahoo.com cdn.jsdelivr.net; connect-src survey.admanagerplus.yahoo-inc.com choices.truste.com choices.trustarc.com 'self' data: blob: ads.adaptv.advertising.com *.yahoo.com bats.video.yahoo.com video-api.yql.yahoo.com sjarack08.vpg.cdn.yimg.com *.cdn.yimg.com b.scorecardresearch.com us.adserver.yahoo.com video.adaptv.advertising.com s.yimg.com l.yimg.com
+Retry-Count: 0
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+Etag: W/"4cb-16b9ba471f0"
+Date: Sun, 28 Jul 2019 05:03:19 GMT
+Cache-Control: public, max-age=0
+Content-Type: text/html; charset=UTF-8
+Age: 0
+Via: http/1.1 media-router-omega74.prod.media.gq1.yahoo.com (ApacheTrafficServer [cMsSfW])
+Server: ATS

@@ -1,0 +1,13 @@
+404 Not Found
+Set-Cookie: B=88k6hbpejrmo6&b=3&s=uh; expires=Mon, 27-Jul-2020 17:27:34 GMT; path=/; domain=.yahoo.com
+Server: ATS
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Length: 315
+Age: 0
+Retry-Count: 0
+X-Frame-Options: DENY
+Referrer-Policy: strict-origin-when-cross-origin
+Date: Sun, 28 Jul 2019 17:27:34 GMT
+Cache-Control: must-revalidate,no-cache,no-store
+Content-Type: text/html;charset=iso-8859-1

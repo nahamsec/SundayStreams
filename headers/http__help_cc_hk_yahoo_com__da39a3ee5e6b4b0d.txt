@@ -1,0 +1,17 @@
+200 OK
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Server: ATS
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+Date: Sun, 28 Jul 2019 05:00:19 GMT
+Strict-Transport-Security: max-age=15552000
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Set-Cookie: JSESSIONID=1i1swy71r0dl11mkner7d1knm;Path=/kb
+Content-Language: zh-HK
+Content-Type: text/html;charset=utf-8
+Vary: Accept-Encoding
+Retry-Count: 0
+Expires: 0
+Age: 0
+Referrer-Policy: no-referrer-when-downgrade

@@ -1,0 +1,14 @@
+404 Not Found
+Content-Length: 0
+Date: Sun, 28 Jul 2019 04:58:54 GMT
+Age: 0
+Strict-Transport-Security: max-age=15552000
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+X-Xss-Protection: 1; mode=block
+X-Yahoo-Social-Host: prod4cws2.xobni.gq1.yahoo.com
+X-Frame-Options: SAMEORIGIN
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+Y-Rid: 88irpsdejqase

@@ -1,0 +1,10 @@
+404 Not Found
+Server: ATS
+Content-Language: en
+Set-Cookie: B=6b55hdhejrq07&b=3&s=l4; expires=Mon, 27-Jul-2020 18:23:03 GMT; path=/; domain=.yahoo.com
+Location: https://api.view.yahoo.com/
+Content-Length: 35
+Date: Sun, 28 Jul 2019 18:23:03 GMT
+Retry-Count: 0
+Cache-Control: no-store
+Content-Type: text/html

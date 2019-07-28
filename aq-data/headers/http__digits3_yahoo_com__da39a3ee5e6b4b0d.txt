@@ -1,0 +1,16 @@
+403 Forbidden
+X-Content-Type-Options: nosniff
+Set-Cookie: B=d023up1ej9c2f&b=3&s=5p; expires=Mon, 20-Jul-2020 18:34:55 GMT; path=/; domain=.yahoo.com
+Date: Sun, 21 Jul 2019 18:34:55 GMT
+Expect-Ct: max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only
+Strict-Transport-Security: max-age=31536000
+Content-Type: text/plain
+Via: http/1.1 media-router-omega13.prod.media.ne1.yahoo.com (ApacheTrafficServer [cMsSf ])
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+X-Powered-By: Express
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy-Report-Only: default-src 'self'; report-uri https://csp.yahoo.com/beacon/csp?src=fendr_digits3.yahoo.com
+Age: 0
+Retry-Count: 0
+X-Frame-Options: SAMEORIGIN

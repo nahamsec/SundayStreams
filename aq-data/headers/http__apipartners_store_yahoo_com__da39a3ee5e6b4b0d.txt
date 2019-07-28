@@ -1,0 +1,15 @@
+200 OK
+Pragma: no-cache
+Strict-Transport-Security: max-age=10886400; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Origin: *
+Date: Sun, 21 Jul 2019 18:34:48 GMT
+Expires: 0
+Retry-Count: 0
+Cache-Control: private, no-store, no-cache, must-revalidate, proxy-revalidate
+Vary: Accept-Encoding
+Content-Security-Policy: frame-ancestors www.yahoosmallbusiness.com login.yahoosmallbusiness.com login.luminate.com http://dev.yahoosmallbusiness.com http://dev.yahoosmallbusiness.com:81 *.yahoosmallbusiness.com *.smallbusiness.yahoo.com *.smallbusiness.yahoo.net *.consent.smallbusiness.yahoo.net smallbusiness.yahoo.com smallbusiness.yahoo.net help.smallbusiness.yahoo.net consent.help.smallbusiness.yahoo.net consent.yahoosmallbusiness.com *.luminate.com
+Content-Type: text/html; charset=utf-8
+Etag: W/"6feb-/Uln+iatRiyvi4U2Gp8mPw"

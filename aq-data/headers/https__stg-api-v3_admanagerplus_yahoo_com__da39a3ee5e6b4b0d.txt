@@ -1,0 +1,17 @@
+404 Not Found
+Access-Control-Allow-Origin: Request from invalid origin
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, PATCH, OPTIONS
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Accept-Encoding, Host, Api-Token, X-Auth-Method, X-HTTP-Method-Override, X-Client-Version, X-Page-Id
+Content-Type: application/json
+X-Response-Timings: ResponseTime = 2ms | databaseOpTime = 0ms | adwOpTime = 0ms | phxOpTime = 0ms
+Access-Control-Allow-Credentials: false
+Access-Control-Max-Age: 86400
+Age: 0
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Access-Control-Expose-Headers: Response-Time
+Date: Sun, 21 Jul 2019 18:34:46 GMT
+Retry-Count: 0
+Server: ATS
+X-Content-Type-Options: nosniff

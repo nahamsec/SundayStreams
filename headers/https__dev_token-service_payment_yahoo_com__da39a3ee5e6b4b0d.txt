@@ -1,0 +1,6 @@
+404 Not Found
+Server: token-service
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Date: Sun, 28 Jul 2019 05:02:04 GMT
+Content-Type: text/html;charset=UTF-8
+Retry-Count: 0
