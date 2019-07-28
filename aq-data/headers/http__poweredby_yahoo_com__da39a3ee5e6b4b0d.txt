@@ -1,9 +1,0 @@
-403 Forbidden
-Referrer-Policy: no-referrer-when-downgrade
-Age: 1
-X-Amz-Request-Id: 7B2BEA7C209BEEEC
-X-Amz-Id-2: FibOBdrR/1s6Q2DxqQSuD2BH5Ngm9i/VdbBx6DD4HObFsIrbvdkYaddZbd6c8JmMzZwZ8T0AJ5M=
-Server: ATS
-Content-Type: application/xml
-Date: Sun, 21 Jul 2019 18:34:54 GMT
-Retry-Count: 0

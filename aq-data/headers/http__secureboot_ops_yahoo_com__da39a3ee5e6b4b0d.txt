@@ -1,9 +1,0 @@
-404 Not Found on Accelerator
-Cache-Control: no-store
-Content-Type: text/html
-Content-Language: en
-Content-Length: 5964
-Date: Sun, 21 Jul 2019 18:34:44 GMT
-Retry-Count: 0
-Via: http/1.1 ea16.ycpi.gq1.yahoo.com (ApacheTrafficServer [c s f ])
-Server: ATS

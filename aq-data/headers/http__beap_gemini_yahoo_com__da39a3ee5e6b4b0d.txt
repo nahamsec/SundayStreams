@@ -1,9 +1,0 @@
-400 Bad Request
-Content-Length: 0
-Date: Sun, 21 Jul 2019 18:34:44 GMT
-Age: 0
-Retry-Count: 0
-Server: ATS
-X-Xss-Protection: 1; mode=block
-X-Content-Type-Options: nosniff
-X-Frame-Options: SAMEORIGIN
